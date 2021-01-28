@@ -1,0 +1,29 @@
+export const vueI18n = {"fallbackLocale":"ja","dateTimeFormats":{"ja":{"dateTime":{"year":"numeric","month":"short","day":"numeric","hour":"numeric","minute":"numeric","hour12":false},"date":{"year":"numeric","month":"short","day":"numeric"},"dateWithoutYear":{"month":"short","day":"numeric"},"dateWithDayOfWeek":{"weekday":"short","month":"short","day":"numeric"}},"en":{"dateTime":{"year":"numeric","month":"short","day":"numeric","hour":"numeric","minute":"numeric","hour12":false},"date":{"year":"numeric","month":"short","day":"numeric"},"dateWithoutYear":{"month":"short","day":"numeric"},"dateWithDayOfWeek":{"weekday":"short","month":"short","day":"numeric"}}},"formatFallbackMessages":true}
+export const vueI18nLoader = false
+export const locales = [{"code":"ja","name":"日本語","iso":"ja-JP","file":"ja.json","description":"Japanese"},{"code":"en","name":"English","iso":"en-US","file":"en.json","description":"English"}]
+export const defaultLocale = 'ja'
+export const routesNameSeparator = '___'
+export const defaultLocaleRouteNameSuffix = 'default'
+export const strategy = 'prefix_except_default'
+export const lazy = true
+export const langDir = 'assets/locales/'
+export const rootRedirect = null
+export const detectBrowserLanguage = false
+export const differentDomains = false
+export const seo = false
+export const baseUrl = ''
+export const vuex = {"moduleName":"i18n","syncLocale":false,"syncMessages":false,"syncRouteParams":true}
+export const parsePages = true
+export const pages = {}
+export const beforeLanguageSwitch = () => null
+export const onLanguageSwitched = () => null
+export const IS_UNIVERSAL_MODE = true
+export const MODULE_NAME = 'nuxt-i18n'
+export const LOCALE_CODE_KEY = 'code'
+export const LOCALE_ISO_KEY = 'iso'
+export const LOCALE_DOMAIN_KEY = 'domain'
+export const LOCALE_FILE_KEY = 'file'
+export const STRATEGIES = {"PREFIX":"prefix","PREFIX_EXCEPT_DEFAULT":"prefix_except_default","PREFIX_AND_DEFAULT":"prefix_and_default","NO_PREFIX":"no_prefix"}
+export const COMPONENT_OPTIONS_KEY = 'nuxtI18n'
+export const localeCodes = ["ja","en"]
+export const trailingSlash = undefined

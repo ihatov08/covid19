@@ -1,0 +1,326 @@
+{
+  "AppLink": {
+    "description": "Auto imported from /components/AppLink.vue"
+  },
+  "LazyAppLink": {
+    "description": "Auto imported from /components/AppLink.vue"
+  },
+  "Breadcrumb": {
+    "description": "Auto imported from /components/Breadcrumb.vue"
+  },
+  "LazyBreadcrumb": {
+    "description": "Auto imported from /components/Breadcrumb.vue"
+  },
+  "CardsLazyRow": {
+    "description": "Auto imported from /components/CardsLazyRow.vue"
+  },
+  "LazyCardsLazyRow": {
+    "description": "Auto imported from /components/CardsLazyRow.vue"
+  },
+  "CardsMonitoring": {
+    "description": "Auto imported from /components/CardsMonitoring.vue"
+  },
+  "LazyCardsMonitoring": {
+    "description": "Auto imported from /components/CardsMonitoring.vue"
+  },
+  "CardsReference": {
+    "description": "Auto imported from /components/CardsReference.vue"
+  },
+  "LazyCardsReference": {
+    "description": "Auto imported from /components/CardsReference.vue"
+  },
+  "CardsTab": {
+    "description": "Auto imported from /components/CardsTab.vue"
+  },
+  "LazyCardsTab": {
+    "description": "Auto imported from /components/CardsTab.vue"
+  },
+  "ConfirmedCasesByMunicipalitiesTable": {
+    "description": "Auto imported from /components/ConfirmedCasesByMunicipalitiesTable.vue"
+  },
+  "LazyConfirmedCasesByMunicipalitiesTable": {
+    "description": "Auto imported from /components/ConfirmedCasesByMunicipalitiesTable.vue"
+  },
+  "ConfirmedCasesDetailsTable": {
+    "description": "Auto imported from /components/ConfirmedCasesDetailsTable.vue"
+  },
+  "LazyConfirmedCasesDetailsTable": {
+    "description": "Auto imported from /components/ConfirmedCasesDetailsTable.vue"
+  },
+  "DataSelector": {
+    "description": "Auto imported from /components/DataSelector.vue"
+  },
+  "LazyDataSelector": {
+    "description": "Auto imported from /components/DataSelector.vue"
+  },
+  "DataTable": {
+    "description": "Auto imported from /components/DataTable.vue"
+  },
+  "LazyDataTable": {
+    "description": "Auto imported from /components/DataTable.vue"
+  },
+  "DataView": {
+    "description": "Auto imported from /components/DataView.vue"
+  },
+  "LazyDataView": {
+    "description": "Auto imported from /components/DataView.vue"
+  },
+  "DataViewCustomInfoPanel": {
+    "description": "Auto imported from /components/DataViewCustomInfoPanel.vue"
+  },
+  "LazyDataViewCustomInfoPanel": {
+    "description": "Auto imported from /components/DataViewCustomInfoPanel.vue"
+  },
+  "DataViewDataSetPanel": {
+    "description": "Auto imported from /components/DataViewDataSetPanel.vue"
+  },
+  "LazyDataViewDataSetPanel": {
+    "description": "Auto imported from /components/DataViewDataSetPanel.vue"
+  },
+  "DataViewExpansionPanel": {
+    "description": "Auto imported from /components/DataViewExpansionPanel.vue"
+  },
+  "LazyDataViewExpansionPanel": {
+    "description": "Auto imported from /components/DataViewExpansionPanel.vue"
+  },
+  "DataViewShare": {
+    "description": "Auto imported from /components/DataViewShare.vue"
+  },
+  "LazyDataViewShare": {
+    "description": "Auto imported from /components/DataViewShare.vue"
+  },
+  "DataViewTable": {
+    "description": "Auto imported from /components/DataViewTable.vue"
+  },
+  "LazyDataViewTable": {
+    "description": "Auto imported from /components/DataViewTable.vue"
+  },
+  "HospitalizedTimeStackedBarChart": {
+    "description": "Auto imported from /components/HospitalizedTimeStackedBarChart.vue"
+  },
+  "LazyHospitalizedTimeStackedBarChart": {
+    "description": "Auto imported from /components/HospitalizedTimeStackedBarChart.vue"
+  },
+  "LanguageSelector": {
+    "description": "Auto imported from /components/LanguageSelector.vue"
+  },
+  "LazyLanguageSelector": {
+    "description": "Auto imported from /components/LanguageSelector.vue"
+  },
+  "MenuList": {
+    "description": "Auto imported from /components/MenuList.vue"
+  },
+  "LazyMenuList": {
+    "description": "Auto imported from /components/MenuList.vue"
+  },
+  "MixedBarAndLineChart": {
+    "description": "Auto imported from /components/MixedBarAndLineChart.vue"
+  },
+  "LazyMixedBarAndLineChart": {
+    "description": "Auto imported from /components/MixedBarAndLineChart.vue"
+  },
+  "MonitoringConfirmedCasesChart": {
+    "description": "Auto imported from /components/MonitoringConfirmedCasesChart.vue"
+  },
+  "LazyMonitoringConfirmedCasesChart": {
+    "description": "Auto imported from /components/MonitoringConfirmedCasesChart.vue"
+  },
+  "MonitoringConsultationDeskReportChart": {
+    "description": "Auto imported from /components/MonitoringConsultationDeskReportChart.vue"
+  },
+  "LazyMonitoringConsultationDeskReportChart": {
+    "description": "Auto imported from /components/MonitoringConsultationDeskReportChart.vue"
+  },
+  "NoScript": {
+    "description": "Auto imported from /components/NoScript.vue"
+  },
+  "LazyNoScript": {
+    "description": "Auto imported from /components/NoScript.vue"
+  },
+  "NotesExpansionPanel": {
+    "description": "Auto imported from /components/NotesExpansionPanel.vue"
+  },
+  "LazyNotesExpansionPanel": {
+    "description": "Auto imported from /components/NotesExpansionPanel.vue"
+  },
+  "PageHeader": {
+    "description": "Auto imported from /components/PageHeader.vue"
+  },
+  "LazyPageHeader": {
+    "description": "Auto imported from /components/PageHeader.vue"
+  },
+  "PositiveRateMixedChart": {
+    "description": "Auto imported from /components/PositiveRateMixedChart.vue"
+  },
+  "LazyPositiveRateMixedChart": {
+    "description": "Auto imported from /components/PositiveRateMixedChart.vue"
+  },
+  "PrinterButton": {
+    "description": "Auto imported from /components/PrinterButton.vue"
+  },
+  "LazyPrinterButton": {
+    "description": "Auto imported from /components/PrinterButton.vue"
+  },
+  "ScrollableChart": {
+    "description": "Auto imported from /components/ScrollableChart.vue"
+  },
+  "LazyScrollableChart": {
+    "description": "Auto imported from /components/ScrollableChart.vue"
+  },
+  "SevereCaseBarChart": {
+    "description": "Auto imported from /components/SevereCaseBarChart.vue"
+  },
+  "LazySevereCaseBarChart": {
+    "description": "Auto imported from /components/SevereCaseBarChart.vue"
+  },
+  "SideNavigation": {
+    "description": "Auto imported from /components/SideNavigation.vue"
+  },
+  "LazySideNavigation": {
+    "description": "Auto imported from /components/SideNavigation.vue"
+  },
+  "SiteTopUpper": {
+    "description": "Auto imported from /components/SiteTopUpper.vue"
+  },
+  "LazySiteTopUpper": {
+    "description": "Auto imported from /components/SiteTopUpper.vue"
+  },
+  "StaticCard": {
+    "description": "Auto imported from /components/StaticCard.vue"
+  },
+  "LazyStaticCard": {
+    "description": "Auto imported from /components/StaticCard.vue"
+  },
+  "StaticInfo": {
+    "description": "Auto imported from /components/StaticInfo.vue"
+  },
+  "LazyStaticInfo": {
+    "description": "Auto imported from /components/StaticInfo.vue"
+  },
+  "TimeBarChart": {
+    "description": "Auto imported from /components/TimeBarChart.vue"
+  },
+  "LazyTimeBarChart": {
+    "description": "Auto imported from /components/TimeBarChart.vue"
+  },
+  "TimeStackedBarChart": {
+    "description": "Auto imported from /components/TimeStackedBarChart.vue"
+  },
+  "LazyTimeStackedBarChart": {
+    "description": "Auto imported from /components/TimeStackedBarChart.vue"
+  },
+  "UntrackedRateMixedChart": {
+    "description": "Auto imported from /components/UntrackedRateMixedChart.vue"
+  },
+  "LazyUntrackedRateMixedChart": {
+    "description": "Auto imported from /components/UntrackedRateMixedChart.vue"
+  },
+  "WhatsNew": {
+    "description": "Auto imported from /components/WhatsNew.vue"
+  },
+  "LazyWhatsNew": {
+    "description": "Auto imported from /components/WhatsNew.vue"
+  },
+  "CardRow": {
+    "description": "Auto imported from /components/cards/CardRow.vue"
+  },
+  "LazyCardRow": {
+    "description": "Auto imported from /components/cards/CardRow.vue"
+  },
+  "ConfirmedCasesAttributesCard": {
+    "description": "Auto imported from /components/cards/ConfirmedCasesAttributesCard.vue"
+  },
+  "LazyConfirmedCasesAttributesCard": {
+    "description": "Auto imported from /components/cards/ConfirmedCasesAttributesCard.vue"
+  },
+  "ConfirmedCasesByMunicipalitiesCard": {
+    "description": "Auto imported from /components/cards/ConfirmedCasesByMunicipalitiesCard.vue"
+  },
+  "LazyConfirmedCasesByMunicipalitiesCard": {
+    "description": "Auto imported from /components/cards/ConfirmedCasesByMunicipalitiesCard.vue"
+  },
+  "ConfirmedCasesDetailsCard": {
+    "description": "Auto imported from /components/cards/ConfirmedCasesDetailsCard.vue"
+  },
+  "LazyConfirmedCasesDetailsCard": {
+    "description": "Auto imported from /components/cards/ConfirmedCasesDetailsCard.vue"
+  },
+  "ConfirmedCasesNumberCard": {
+    "description": "Auto imported from /components/cards/ConfirmedCasesNumberCard.vue"
+  },
+  "LazyConfirmedCasesNumberCard": {
+    "description": "Auto imported from /components/cards/ConfirmedCasesNumberCard.vue"
+  },
+  "HospitalizedNumberCard": {
+    "description": "Auto imported from /components/cards/HospitalizedNumberCard.vue"
+  },
+  "LazyHospitalizedNumberCard": {
+    "description": "Auto imported from /components/cards/HospitalizedNumberCard.vue"
+  },
+  "MonitoringConfirmedCasesNumberCard": {
+    "description": "Auto imported from /components/cards/MonitoringConfirmedCasesNumberCard.vue"
+  },
+  "LazyMonitoringConfirmedCasesNumberCard": {
+    "description": "Auto imported from /components/cards/MonitoringConfirmedCasesNumberCard.vue"
+  },
+  "MonitoringConsultationDeskReportsNumberCard": {
+    "description": "Auto imported from /components/cards/MonitoringConsultationDeskReportsNumberCard.vue"
+  },
+  "LazyMonitoringConsultationDeskReportsNumberCard": {
+    "description": "Auto imported from /components/cards/MonitoringConsultationDeskReportsNumberCard.vue"
+  },
+  "PositiveNumberByDevelopedDateCard": {
+    "description": "Auto imported from /components/cards/PositiveNumberByDevelopedDateCard.vue"
+  },
+  "LazyPositiveNumberByDevelopedDateCard": {
+    "description": "Auto imported from /components/cards/PositiveNumberByDevelopedDateCard.vue"
+  },
+  "PositiveNumberByDiagnosedDateCard": {
+    "description": "Auto imported from /components/cards/PositiveNumberByDiagnosedDateCard.vue"
+  },
+  "LazyPositiveNumberByDiagnosedDateCard": {
+    "description": "Auto imported from /components/cards/PositiveNumberByDiagnosedDateCard.vue"
+  },
+  "PositiveRateCard": {
+    "description": "Auto imported from /components/cards/PositiveRateCard.vue"
+  },
+  "LazyPositiveRateCard": {
+    "description": "Auto imported from /components/cards/PositiveRateCard.vue"
+  },
+  "SelfDisclosuresCard": {
+    "description": "Auto imported from /components/cards/SelfDisclosuresCard.vue"
+  },
+  "LazySelfDisclosuresCard": {
+    "description": "Auto imported from /components/cards/SelfDisclosuresCard.vue"
+  },
+  "SevereCaseCard": {
+    "description": "Auto imported from /components/cards/SevereCaseCard.vue"
+  },
+  "LazySevereCaseCard": {
+    "description": "Auto imported from /components/cards/SevereCaseCard.vue"
+  },
+  "TelephoneAdvisoryReportsNumberCard": {
+    "description": "Auto imported from /components/cards/TelephoneAdvisoryReportsNumberCard.vue"
+  },
+  "LazyTelephoneAdvisoryReportsNumberCard": {
+    "description": "Auto imported from /components/cards/TelephoneAdvisoryReportsNumberCard.vue"
+  },
+  "TestedNumberCard": {
+    "description": "Auto imported from /components/cards/TestedNumberCard.vue"
+  },
+  "LazyTestedNumberCard": {
+    "description": "Auto imported from /components/cards/TestedNumberCard.vue"
+  },
+  "UntrackedRateCard": {
+    "description": "Auto imported from /components/cards/UntrackedRateCard.vue"
+  },
+  "LazyUntrackedRateCard": {
+    "description": "Auto imported from /components/cards/UntrackedRateCard.vue"
+  },
+  "WhatsNewCard": {
+    "description": "Auto imported from /components/cards/WhatsNewCard.vue"
+  },
+  "LazyWhatsNewCard": {
+    "description": "Auto imported from /components/cards/WhatsNewCard.vue"
+  }
+}

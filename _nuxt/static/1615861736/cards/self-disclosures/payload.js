@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/cards/self-disclosures", {data:[{}],fetch:{},mutations:void 0});

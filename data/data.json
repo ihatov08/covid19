@@ -1,6 +1,6 @@
 {
   "contacts": {
-    "date": "2021-04-10T10:03:10+09:00",
+    "date": "2021-04-13T20:14:50+09:00",
     "data": [
       {
         "日付": "2020-02-15T00:00:00+09:00",
@@ -1429,7 +1429,7 @@
     ]
   },
   "querents": {
-    "date": "2021-04-10T10:03:10+09:00",
+    "date": "2021-04-13T20:14:50+09:00",
     "data": [
       {
         "日付": "2020-02-15T00:00:00+09:00",
@@ -2858,7 +2858,7 @@
     ]
   },
   "patients": {
-    "date": "2021-04-10T10:03:10+09:00",
+    "date": "2021-04-13T20:14:50+09:00",
     "data": [
       {
         "id": 1,
@@ -10966,11 +10966,297 @@
         "url": "https://www.pref.iwate.jp/kurashikankyou/iryou/covid19/1039755/1041522.html",
         "会見": "https://www.youtube.com/watch?v=TEA4uGO_-DU",
         "接触歴": "判明"
+      },
+      {
+        "id": 738,
+        "確定日": "2021-04-09T00:00:00+09:00",
+        "発症日": "2021-04-05T00:00:00+09:00",
+        "無症状": false,
+        "年代": "20代",
+        "居住地": "盛岡市",
+        "url": "http://www.city.morioka.iwate.jp/kenkou/kenko/1031971/1032075/1032217/1034719.html",
+        "会見": "https://www.youtube.com/watch?v=QkPSYV5DTIc",
+        "接触歴": "判明"
+      },
+      {
+        "id": 739,
+        "確定日": "2021-04-09T00:00:00+09:00",
+        "発症日": "2021-04-06T00:00:00+09:00",
+        "無症状": false,
+        "年代": "20代",
+        "居住地": "盛岡市",
+        "url": "http://www.city.morioka.iwate.jp/kenkou/kenko/1031971/1032075/1032217/1034720.html",
+        "会見": "https://www.youtube.com/watch?v=QkPSYV5DTIc",
+        "接触歴": "判明"
+      },
+      {
+        "id": 740,
+        "確定日": "2021-04-09T00:00:00+09:00",
+        "発症日": null,
+        "無症状": true,
+        "年代": "10代",
+        "居住地": "盛岡市",
+        "url": "http://www.city.morioka.iwate.jp/kenkou/kenko/1031971/1032075/1032217/1034721.html",
+        "会見": "https://www.youtube.com/watch?v=QkPSYV5DTIc",
+        "接触歴": "判明"
+      },
+      {
+        "id": 741,
+        "確定日": "2021-04-09T00:00:00+09:00",
+        "発症日": null,
+        "無症状": true,
+        "年代": "10歳未満",
+        "居住地": "盛岡市",
+        "url": "http://www.city.morioka.iwate.jp/kenkou/kenko/1031971/1032075/1032217/1034722.html",
+        "会見": "https://www.youtube.com/watch?v=QkPSYV5DTIc",
+        "接触歴": "判明"
+      },
+      {
+        "id": 742,
+        "確定日": "2021-04-09T00:00:00+09:00",
+        "発症日": "2021-04-08T00:00:00+09:00",
+        "無症状": false,
+        "年代": "50代",
+        "居住地": "奥州市",
+        "url": "https://www.pref.iwate.jp/kurashikankyou/iryou/covid19/1039755/1041527.html",
+        "会見": "https://www.youtube.com/watch?v=QkPSYV5DTIc",
+        "接触歴": "判明"
+      },
+      {
+        "id": 743,
+        "確定日": "2021-04-09T00:00:00+09:00",
+        "発症日": "2021-04-01T00:00:00+09:00",
+        "無症状": false,
+        "年代": "40代",
+        "居住地": "奥州市",
+        "url": "https://www.pref.iwate.jp/kurashikankyou/iryou/covid19/1039755/1041528.html",
+        "会見": "https://www.youtube.com/watch?v=QkPSYV5DTIc",
+        "接触歴": "判明"
+      },
+      {
+        "id": 744,
+        "確定日": "2021-04-09T00:00:00+09:00",
+        "発症日": "2021-04-06T00:00:00+09:00",
+        "無症状": false,
+        "年代": "60代",
+        "居住地": "一関市",
+        "url": "https://www.pref.iwate.jp/kurashikankyou/iryou/covid19/1039755/1041529.html",
+        "会見": "https://www.youtube.com/watch?v=QkPSYV5DTIc",
+        "接触歴": "判明"
+      },
+      {
+        "id": 745,
+        "確定日": "2021-04-09T00:00:00+09:00",
+        "発症日": null,
+        "無症状": true,
+        "年代": "60代",
+        "居住地": "一関市",
+        "url": "https://www.pref.iwate.jp/kurashikankyou/iryou/covid19/1039755/1041530.html",
+        "会見": "https://www.youtube.com/watch?v=QkPSYV5DTIc",
+        "接触歴": "判明"
+      },
+      {
+        "id": 746,
+        "確定日": "2021-04-10T00:00:00+09:00",
+        "発症日": null,
+        "無症状": true,
+        "年代": "10歳未満",
+        "居住地": "盛岡市",
+        "url": "http://www.city.morioka.iwate.jp/kenkou/kenko/1031971/1032075/1032217/1034724.html",
+        "会見": "https://www.youtube.com/watch?v=koLCQMPqyR4",
+        "接触歴": "判明"
+      },
+      {
+        "id": 747,
+        "確定日": "2021-04-10T00:00:00+09:00",
+        "発症日": null,
+        "無症状": true,
+        "年代": "10歳未満",
+        "居住地": "盛岡市",
+        "url": "http://www.city.morioka.iwate.jp/kenkou/kenko/1031971/1032075/1032217/1034725.html",
+        "会見": "https://www.youtube.com/watch?v=koLCQMPqyR4",
+        "接触歴": "判明"
+      },
+      {
+        "id": 748,
+        "確定日": "2021-04-10T00:00:00+09:00",
+        "発症日": null,
+        "無症状": true,
+        "年代": "10歳未満",
+        "居住地": "盛岡市",
+        "url": "http://www.city.morioka.iwate.jp/kenkou/kenko/1031971/1032075/1032217/1034726.html",
+        "会見": "https://www.youtube.com/watch?v=koLCQMPqyR4",
+        "接触歴": "判明"
+      },
+      {
+        "id": 749,
+        "確定日": "2021-04-10T00:00:00+09:00",
+        "発症日": "2021-04-06T00:00:00+09:00",
+        "無症状": false,
+        "年代": "70代",
+        "居住地": "奥州市",
+        "url": "https://www.pref.iwate.jp/kurashikankyou/iryou/covid19/1039755/1041531.html",
+        "会見": "https://www.youtube.com/watch?v=koLCQMPqyR4",
+        "接触歴": "判明"
+      },
+      {
+        "id": 750,
+        "確定日": "2021-04-10T00:00:00+09:00",
+        "発症日": "2021-04-09T00:00:00+09:00",
+        "無症状": false,
+        "年代": "70代",
+        "居住地": "奥州市",
+        "url": "https://www.pref.iwate.jp/kurashikankyou/iryou/covid19/1039755/1041532.html",
+        "会見": "https://www.youtube.com/watch?v=koLCQMPqyR4",
+        "接触歴": "判明"
+      },
+      {
+        "id": 751,
+        "確定日": "2021-04-10T00:00:00+09:00",
+        "発症日": "2021-04-09T00:00:00+09:00",
+        "無症状": false,
+        "年代": "20代",
+        "居住地": "宮古市",
+        "url": "https://www.pref.iwate.jp/kurashikankyou/iryou/covid19/1039755/1041533.html",
+        "会見": "https://www.youtube.com/watch?v=koLCQMPqyR4",
+        "接触歴": "判明"
+      },
+      {
+        "id": 752,
+        "確定日": "2021-04-10T00:00:00+09:00",
+        "発症日": "2021-04-08T00:00:00+09:00",
+        "無症状": false,
+        "年代": "30代",
+        "居住地": "宮古市",
+        "url": "https://www.pref.iwate.jp/kurashikankyou/iryou/covid19/1039755/1041534.html",
+        "会見": "https://www.youtube.com/watch?v=koLCQMPqyR4",
+        "接触歴": "判明"
+      },
+      {
+        "id": 753,
+        "確定日": "2021-04-11T00:00:00+09:00",
+        "発症日": null,
+        "無症状": true,
+        "年代": "10歳未満",
+        "居住地": "盛岡市",
+        "url": "http://www.city.morioka.iwate.jp/kenkou/kenko/1031971/1032075/1032217/1034763.html",
+        "会見": "https://www.youtube.com/watch?v=7de4HtJ5q6U",
+        "接触歴": "判明"
+      },
+      {
+        "id": 754,
+        "確定日": "2021-04-11T00:00:00+09:00",
+        "発症日": "2021-04-04T00:00:00+09:00",
+        "無症状": false,
+        "年代": "50代",
+        "居住地": "県央保健所管内",
+        "url": "https://www.pref.iwate.jp/kurashikankyou/iryou/covid19/1039755/1041546.html",
+        "会見": "https://www.youtube.com/watch?v=7de4HtJ5q6U",
+        "接触歴": "判明"
+      },
+      {
+        "id": 755,
+        "確定日": "2021-04-11T00:00:00+09:00",
+        "発症日": "2021-04-08T00:00:00+09:00",
+        "無症状": false,
+        "年代": "50代",
+        "居住地": "県央保健所管内",
+        "url": "https://www.pref.iwate.jp/kurashikankyou/iryou/covid19/1039755/1041550.html",
+        "会見": "https://www.youtube.com/watch?v=7de4HtJ5q6U",
+        "接触歴": "判明"
+      },
+      {
+        "id": 756,
+        "確定日": "2021-04-11T00:00:00+09:00",
+        "発症日": "2021-04-10T00:00:00+09:00",
+        "無症状": false,
+        "年代": "20代",
+        "居住地": "県央保健所管内",
+        "url": "https://www.pref.iwate.jp/kurashikankyou/iryou/covid19/1039755/1041552.html",
+        "会見": "https://www.youtube.com/watch?v=7de4HtJ5q6U",
+        "接触歴": "判明"
+      },
+      {
+        "id": 757,
+        "確定日": "2021-04-11T00:00:00+09:00",
+        "発症日": "2021-04-06T00:00:00+09:00",
+        "無症状": false,
+        "年代": "20代",
+        "居住地": "奥州市",
+        "url": "https://www.pref.iwate.jp/kurashikankyou/iryou/covid19/1039755/1041553.html",
+        "会見": "https://www.youtube.com/watch?v=7de4HtJ5q6U",
+        "接触歴": "判明"
+      },
+      {
+        "id": 758,
+        "確定日": "2021-04-11T00:00:00+09:00",
+        "発症日": "2021-04-10T00:00:00+09:00",
+        "無症状": false,
+        "年代": "40代",
+        "居住地": "奥州市",
+        "url": "https://www.pref.iwate.jp/kurashikankyou/iryou/covid19/1039755/1041551.html",
+        "会見": "https://www.youtube.com/watch?v=7de4HtJ5q6U",
+        "接触歴": "判明"
+      },
+      {
+        "id": 759,
+        "確定日": "2021-04-11T00:00:00+09:00",
+        "発症日": "2021-04-10T00:00:00+09:00",
+        "無症状": false,
+        "年代": "20代",
+        "居住地": "一関市",
+        "url": "https://www.pref.iwate.jp/kurashikankyou/iryou/covid19/1039755/1041547.html",
+        "会見": "https://www.youtube.com/watch?v=7de4HtJ5q6U",
+        "接触歴": "判明"
+      },
+      {
+        "id": 760,
+        "確定日": "2021-04-11T00:00:00+09:00",
+        "発症日": "2021-04-10T00:00:00+09:00",
+        "無症状": false,
+        "年代": "30代",
+        "居住地": "一関市",
+        "url": "https://www.pref.iwate.jp/kurashikankyou/iryou/covid19/1039755/1041548.html",
+        "会見": "https://www.youtube.com/watch?v=7de4HtJ5q6U",
+        "接触歴": "判明"
+      },
+      {
+        "id": 761,
+        "確定日": "2021-04-11T00:00:00+09:00",
+        "発症日": "2021-04-11T00:00:00+09:00",
+        "無症状": false,
+        "年代": "10代",
+        "居住地": "一関市",
+        "url": "https://www.pref.iwate.jp/kurashikankyou/iryou/covid19/1039755/1041549.html",
+        "会見": "https://www.youtube.com/watch?v=7de4HtJ5q6U",
+        "接触歴": "判明"
+      },
+      {
+        "id": 762,
+        "確定日": "2021-04-12T00:00:00+09:00",
+        "発症日": "2021-04-10T00:00:00+09:00",
+        "無症状": false,
+        "年代": "30代",
+        "居住地": "県外",
+        "url": "http://www.city.morioka.iwate.jp/kenkou/kenko/1031971/1032075/1032217/1034775.html",
+        "会見": "https://www.youtube.com/watch?v=428ol1RwB78",
+        "接触歴": "不明"
+      },
+      {
+        "id": 763,
+        "確定日": "2021-04-12T00:00:00+09:00",
+        "発症日": "2021-04-07T00:00:00+09:00",
+        "無症状": false,
+        "年代": "70代",
+        "居住地": "奥州市",
+        "url": "https://www.pref.iwate.jp/kurashikankyou/iryou/covid19/1039755/1041564.html",
+        "会見": "https://www.youtube.com/watch?v=428ol1RwB78",
+        "接触歴": "不明"
       }
     ]
   },
   "patients_summary": {
-    "date": "2021-04-10T10:03:10+09:00",
+    "date": "2021-04-13T20:14:50+09:00",
     "data": [
       {
         "日付": "2020-02-15T08:00:00+09:00",
@@ -12651,8 +12937,24 @@
       {
         "日付": "2021-04-09T08:00:00+09:00",
         "小計": 5
+      },
+      {
+        "日付": "2021-04-10T08:00:00+09:00",
+        "小計": 8
+      },
+      {
+        "日付": "2021-04-11T08:00:00+09:00",
+        "小計": 7
+      },
+      {
+        "日付": "2021-04-12T08:00:00+09:00",
+        "小計": 9
+      },
+      {
+        "日付": "2021-04-13T08:00:00+09:00",
+        "小計": 2
       }
     ]
   },
-  "lastUpdate": "2021-04-10T10:03:10+09:00"
+  "lastUpdate": "2021-04-13T20:14:50+09:00"
 }

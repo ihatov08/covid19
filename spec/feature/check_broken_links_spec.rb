@@ -50,6 +50,12 @@ describe 'iPhone 6/7/8', type: :feature do
       page.all('a').each do |a|
         urls << URI(a['href']) unless a['href'].match(/^tel:/)
       end
+
+      visit '/vaccine'
+      render_lazy_contents
+      page.all('a').each do |a|
+        urls << URI(a['href'])
+      end
     end
 
     it 'has no broken links' do
@@ -65,7 +71,8 @@ describe 'iPhone 6/7/8', type: :feature do
             'User-Agent': 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_6) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.3 Safari/605.1.15 '
           },
           method: :head,
-          followlocation: true
+          followlocation: true,
+          timeout: 10
         )
         hydra.queue(request)
         request

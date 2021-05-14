@@ -1811,6 +1811,102 @@
         "ja": "岩手大学 (盛岡市)",
         "en": null
       }
+    },
+    {
+      "date": "2021-05-12T00:00:00+09:00",
+      "icon": "📄",
+      "url": {
+        "ja": "https://www.aogiri.org/wp-content/uploads/2021/05/202105121303.pdf",
+        "en": null
+      },
+      "text": {
+        "ja": "岩手県予防医学協会 [第2報] (盛岡市)",
+        "en": null
+      }
+    },
+    {
+      "date": "2021-05-13T00:00:00+09:00",
+      "icon": "📄",
+      "url": {
+        "ja": "https://www.iwate-np.co.jp/article/2021/5/13/96609",
+        "en": null
+      },
+      "text": {
+        "ja": "岩手日報社 制作部門 (盛岡市・矢巾町)",
+        "en": null
+      }
+    },
+    {
+      "date": "2021-05-13T00:00:00+09:00",
+      "icon": "📄",
+      "url": {
+        "ja": "https://www.youtube.com/watch?v=TXxQkr2dS9U",
+        "en": null
+      },
+      "text": {
+        "ja": "岩手県庁 10F 教育委員会 事務局 (盛岡市)",
+        "en": null
+      }
+    },
+    {
+      "date": "2021-05-13T00:00:00+09:00",
+      "icon": "📄",
+      "url": {
+        "ja": "https://www.youtube.com/watch?v=TXxQkr2dS9U",
+        "en": null
+      },
+      "text": {
+        "ja": "岩手県庁 8F 県土整備部 建築住宅課 (盛岡市)",
+        "en": null
+      }
+    },
+    {
+      "date": "2021-05-13T00:00:00+09:00",
+      "icon": "📄",
+      "url": {
+        "ja": "http://ichinoseki-shinkin.jp/info/pdf/20210513.pdf",
+        "en": null
+      },
+      "text": {
+        "ja": "一関信用金庫 平泉支店 (平泉町)",
+        "en": null
+      }
+    },
+    {
+      "date": "2021-05-10T00:00:00+09:00",
+      "icon": "📄",
+      "url": {
+        "ja": "https://www.inpex.co.jp/news/assets/pdf/20210510.pdf",
+        "en": null
+      },
+      "text": {
+        "ja": "帝石削井工業",
+        "en": null
+      }
+    },
+    {
+      "date": "2021-05-13T00:00:00+09:00",
+      "icon": "📄",
+      "url": {
+        "ja": "https://www.city.oshu.iwate.jp/site/korona/41571.html",
+        "en": null
+      },
+      "text": {
+        "ja": "奥州市立 前沢保育所 (奥州市)",
+        "en": null
+      }
+    },
+    {
+      "date": "2021-05-13T00:00:00+09:00",
+      "icon": "📄",
+      "url": {
+        "ja": "https://www.city.takizawa.iwate.jp/var/rev0/0104/2011/121513173621.pdf",
+        "en": null
+      },
+      "text": {
+        "ja": "滝沢市役所 [他の職員の陰性報告] (滝沢市)",
+        "en": null
+      }
     }
   ]
 }

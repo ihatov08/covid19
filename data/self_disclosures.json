@@ -1840,7 +1840,7 @@
       "date": "2021-05-13T00:00:00+09:00",
       "icon": "📄",
       "url": {
-        "ja": "https://www.youtube.com/watch?v=TXxQkr2dS9U",
+        "ja": "https://youtu.be/TXxQkr2dS9U?t=565",
         "en": null
       },
       "text": {
@@ -1852,7 +1852,7 @@
       "date": "2021-05-13T00:00:00+09:00",
       "icon": "📄",
       "url": {
-        "ja": "https://www.youtube.com/watch?v=TXxQkr2dS9U",
+        "ja": "https://youtu.be/TXxQkr2dS9U?t=565",
         "en": null
       },
       "text": {
@@ -1905,6 +1905,66 @@
       },
       "text": {
         "ja": "滝沢市役所 [他の職員の陰性報告] (滝沢市)",
+        "en": null
+      }
+    },
+    {
+      "date": "2021-05-14T00:00:00+09:00",
+      "icon": "📄",
+      "url": {
+        "ja": "https://care-net.biz/03/jyusuikai/",
+        "en": null
+      },
+      "text": {
+        "ja": "養護老人ホーム寿水荘 社会福祉法人寿水会 [第3報] (奥州市)",
+        "en": null
+      }
+    },
+    {
+      "date": "2021-05-14T00:00:00+09:00",
+      "icon": "📄",
+      "url": {
+        "ja": "http://www.hopital-ohshu.or.jp/cgi-bin/news.cgi?f1=1620967561&f2=iclinic",
+        "en": null
+      },
+      "text": {
+        "ja": "岩手クリニック一関 [終息および今後の医療体制について] (一関市)",
+        "en": null
+      }
+    },
+    {
+      "date": "2021-05-14T00:00:00+09:00",
+      "icon": "📄",
+      "url": {
+        "ja": "https://www.morioka-fire.jp/rink/R3.5.14shingatakoronakansen.pdf",
+        "en": null
+      },
+      "text": {
+        "ja": "盛岡西消防署 (盛岡市)",
+        "en": null
+      }
+    },
+    {
+      "date": "2021-05-14T00:00:00+09:00",
+      "icon": "📄",
+      "url": {
+        "ja": "http://www.oshu-shakyo.jp/wp-content/uploads/2021/05/20210514001.pdf",
+        "en": null
+      },
+      "text": {
+        "ja": "奥州市社会福祉協議会 (奥州市)",
+        "en": null
+      }
+    },
+    {
+      "date": "2021-05-14T00:00:00+09:00",
+      "icon": "📄",
+      "url": {
+        "ja": "https://www.city.ichinoseki.iwate.jp/index.cfm/28,127161,c,html/127161/20210514-175622.pdf",
+        "en": null
+      },
+      "text": {
+        "ja": "一関市議会 (一関市)",
         "en": null
       }
     }

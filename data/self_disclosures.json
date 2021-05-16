@@ -1517,11 +1517,11 @@
       "icon": "📄",
       "url": {
         "ja": "https://www.iwate-u.ac.jp/info/important/2021/05/004077.html",
-        "en": null
+        "en": "https://www.iwate-u.ac.jp/english/info/news/2021/05/004084.html"
       },
       "text": {
         "ja": "岩手大学 [続報] (盛岡市)",
-        "en": null
+        "en": "Iwate University (Morioka)"
       }
     },
     {
@@ -1760,7 +1760,7 @@
         "en": null
       },
       "text": {
-        "ja": "家電住まいる館 YAMADA 盛岡本店 (盛岡市)",
+        "ja": "家電住まいる館 YAMADA 盛岡本店 [消毒終了後、開店のお知らせ] (盛岡市)",
         "en": null
       }
     },
@@ -1805,11 +1805,11 @@
       "icon": "📄",
       "url": {
         "ja": "https://www.iwate-u.ac.jp/info/important/2021/05/004104.html",
-        "en": null
+        "en": "https://www.iwate-u.ac.jp/english/info/news/2021/05/004106.html"
       },
       "text": {
         "ja": "岩手大学 (盛岡市)",
-        "en": null
+        "en": "Iwate University (Morioka)"
       }
     },
     {
@@ -1976,7 +1976,7 @@
         "en": null
       },
       "text": {
-        "ja": "家電住まいる館 YAMADA 盛岡本店 (盛岡市)",
+        "ja": "家電住まいる館 YAMADA 盛岡本店 [消毒終了次第、営業再開のお知らせ] (盛岡市)",
         "en": null
       }
     },
@@ -2049,6 +2049,42 @@
       },
       "text": {
         "ja": "グループホーム ひだまり [第2報] (奥州市)",
+        "en": null
+      }
+    },
+    {
+      "date": "2021-05-16T00:00:00+09:00",
+      "icon": "📄",
+      "url": {
+        "ja": "https://www.yamada-denki.jp/information/200419prevention/pdf/210516_morioka.pdf",
+        "en": null
+      },
+      "text": {
+        "ja": "家電住まいる館 YAMADA 盛岡本店 [消毒終了後、開店のお知らせ] (盛岡市)",
+        "en": null
+      }
+    },
+    {
+      "date": "2021-05-16T00:00:00+09:00",
+      "icon": "📄",
+      "url": {
+        "ja": "https://www.iwate-u.ac.jp/info/important/2021/05/004116.html",
+        "en": null
+      },
+      "text": {
+        "ja": "岩手大学 [発生と上田キャンパス遠隔授業のお知らせ] (盛岡市)",
+        "en": null
+      }
+    },
+    {
+      "date": "2021-05-16T00:00:00+09:00",
+      "icon": "📄",
+      "url": {
+        "ja": "https://www.facebook.com/%E6%B1%9F%E9%87%A3%E5%AD%90%E5%B1%8B-558264274205395/",
+        "en": null
+      },
+      "text": {
+        "ja": "江釣子屋 (北上市)",
         "en": null
       }
     }

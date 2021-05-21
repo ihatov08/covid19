@@ -2084,7 +2084,7 @@
         "en": null
       },
       "text": {
-        "ja": "Iwate University [face-to-face classes on Ueda Campus will be conducted via remote learning and classes that cannot be conducted remotely will be cancelled.] (Morioka)",
+        "ja": "Iwate University [Face-to-Face classes on Ueda Campus will be conducted via remote learning and classes that cannot will be cancelled.] (Morioka)",
         "en": null
       }
     },
@@ -2120,7 +2120,7 @@
         "en": null
       },
       "text": {
-        "ja": "ディライト (Blanc Couture / ブラン クチュール) (北上市) ",
+        "ja": "ディライト (Blanc Couture / ブラン クチュール) (北上市)",
         "en": null
       }
     },
@@ -2217,6 +2217,270 @@
       },
       "text": {
         "ja": "盛岡自動車学校 (盛岡市)",
+        "en": null
+      }
+    },
+    {
+      "date": "2021-05-18T00:00:00+09:00",
+      "icon": "📄",
+      "url": {
+        "ja": "https://emergency.aeon.jp/moriokaminami/.assets/210519%E5%A4%A7%E6%88%B8%E5%B1%8BHP.pdf",
+        "en": null
+      },
+      "text": {
+        "ja": "大戸屋 (イオンモール盛岡南) (盛岡市)",
+        "en": null
+      }
+    },
+    {
+      "date": "2021-05-19T00:00:00+09:00",
+      "icon": "📄",
+      "url": {
+        "ja": "http://www.iwatekeiba.or.jp/news/20210519-2",
+        "en": null
+      },
+      "text": {
+        "ja": "岩手県競馬組合",
+        "en": null
+      }
+    },
+    {
+      "date": "2021-05-13T00:00:00+09:00",
+      "icon": "📄",
+      "url": {
+        "ja": "http://www.sws-e.co.jp/img/covid19_1.pdf",
+        "en": null
+      },
+      "text": {
+        "ja": "SWS東日本 大迫工場 (花巻市)",
+        "en": null
+      }
+    },
+    {
+      "date": "2021-05-19T00:00:00+09:00",
+      "icon": "📄",
+      "url": {
+        "ja": "https://www.city.hanamaki.iwate.jp/kenko_iryo_fukushi/oshirase/1013361/1014325.html",
+        "en": null
+      },
+      "text": {
+        "ja": "花巻市内の学校の状況 [花巻市長メッセージ] (花巻市)",
+        "en": null
+      }
+    },
+    {
+      "date": "2021-05-19T00:00:00+09:00",
+      "icon": "📄",
+      "url": {
+        "ja": "https://www.iwate-med.ac.jp/news/n1-information/21051901-soumu/",
+        "en": null
+      },
+      "text": {
+        "ja": "岩手医科大学 (矢巾町)",
+        "en": null
+      }
+    },
+    {
+      "date": "2021-05-19T00:00:00+09:00",
+      "icon": "📄",
+      "url": {
+        "ja": "http://iwate-jh.ed.jp/archives/2538",
+        "en": null
+      },
+      "text": {
+        "ja": "岩手中高等学校 (盛岡市)",
+        "en": null
+      }
+    },
+    {
+      "date": "2021-05-19T00:00:00+09:00",
+      "icon": "📄",
+      "url": {
+        "ja": "http://www.ryusin.co.jp/web/files/202105/20210519.pdf",
+        "en": null
+      },
+      "text": {
+        "ja": "龍振鉱業 [接触者の陰性報告] (大船渡市)",
+        "en": null
+      }
+    },
+    {
+      "date": "2021-05-19T00:00:00+09:00",
+      "icon": "📄",
+      "url": {
+        "ja": null,
+        "en": null
+      },
+      "text": {
+        "ja": "岩手県警察本部 (盛岡市)",
+        "en": null
+      }
+    },
+    {
+      "date": "2021-05-20T00:00:00+09:00",
+      "icon": "📄",
+      "url": {
+        "ja": "https://youtu.be/KIMhbmpLunE?t=50",
+        "en": null
+      },
+      "text": {
+        "ja": "やきとりかつ (盛岡市青山) 5/11〜5/14に利用した方は盛岡市保健所へ連絡を",
+        "en": null
+      }
+    },
+    {
+      "date": "2021-05-19T00:00:00+09:00",
+      "icon": "📄",
+      "url": {
+        "ja": "https://www.kioxia-iwate.co.jp/news/2021/20210519-1.html",
+        "en": null
+      },
+      "text": {
+        "ja": "キオクシア岩手 [敷地内で工事作業を行っている協力会社作業者] (北上市)",
+        "en": null
+      }
+    },
+    {
+      "date": "2021-05-20T00:00:00+09:00",
+      "icon": "📄",
+      "url": {
+        "ja": "https://www.iwate-pu.ac.jp/whatsnew/2021/05/post-555.html",
+        "en": null
+      },
+      "text": {
+        "ja": "岩手県立大学 [続報 接触者の陰性報告] (滝沢市)",
+        "en": null
+      }
+    },
+    {
+      "date": "2021-05-20T00:00:00+09:00",
+      "icon": "📄",
+      "url": {
+        "ja": "https://www.iwate-u.ac.jp/info/important/2021/05/004135.html",
+        "en": null
+      },
+      "text": {
+        "ja": "岩手大学 (盛岡市)",
+        "en": null
+      }
+    },
+    {
+      "date": "2021-05-20T00:00:00+09:00",
+      "icon": "📄",
+      "url": {
+        "ja": "https://www.iwate-u.ac.jp/english/info/news/2021/05/004140.html",
+        "en": null
+      },
+      "text": {
+        "ja": "Iwate University (Morioka)",
+        "en": null
+      }
+    },
+    {
+      "date": "2021-05-19T00:00:00+09:00",
+      "icon": "📄",
+      "url": {
+        "ja": "http://www.mirakukai.com/media/1/20210519.pdf",
+        "en": null
+      },
+      "text": {
+        "ja": "グループホーム ひだまり [第3報 経過と陰性報告] (奥州市)",
+        "en": null
+      }
+    },
+    {
+      "date": "2021-05-20T00:00:00+09:00",
+      "icon": "📄",
+      "url": {
+        "ja": "https://grulla-morioka.jp/tab09_club/news210520-02/",
+        "en": null
+      },
+      "text": {
+        "ja": "いわてグルージャ盛岡 (盛岡市)",
+        "en": null
+      }
+    },
+    {
+      "date": "2021-05-20T00:00:00+09:00",
+      "icon": "📄",
+      "url": {
+        "ja": "http://iwate-jh.ed.jp/archives/2547",
+        "en": null
+      },
+      "text": {
+        "ja": "岩手中高等学校 [経過連絡] (盛岡市)",
+        "en": null
+      }
+    },
+    {
+      "date": "2021-05-21T00:00:00+09:00",
+      "icon": "📄",
+      "url": {
+        "ja": "https://www.daiwahouse.co.jp/info/pdf/20210521.pdf",
+        "en": null
+      },
+      "text": {
+        "ja": "大和ハウス工業 北東北支社 (盛岡市)",
+        "en": null
+      }
+    },
+    {
+      "date": "2021-05-21T00:00:00+09:00",
+      "icon": "📄",
+      "url": {
+        "ja": "https://www.daiwahouse.co.jp/info/pdf/20210521-2.pdf",
+        "en": null
+      },
+      "text": {
+        "ja": "大和ハウス工業 北東北支社 [過去1ヶ月の状況] (盛岡市)",
+        "en": null
+      }
+    },
+    {
+      "date": "2021-05-21T00:00:00+09:00",
+      "icon": "📄",
+      "url": {
+        "ja": "https://www.kioxia-iwate.co.jp/news/2021/20210521-1.html",
+        "en": null
+      },
+      "text": {
+        "ja": "キオクシア岩手 [続報] (北上市)",
+        "en": null
+      }
+    },
+    {
+      "date": "2021-05-20T00:00:00+09:00",
+      "icon": "📄",
+      "url": {
+        "ja": "https://www.sedia-system.co.jp/news/detail/14534.html",
+        "en": null
+      },
+      "text": {
+        "ja": "渡辺パイプ 盛岡住設サービスセンター (盛岡市)",
+        "en": null
+      }
+    },
+    {
+      "date": "2021-05-21T00:00:00+09:00",
+      "icon": "📄",
+      "url": {
+        "ja": "https://wakanagroup.co.jp/3938/",
+        "en": null
+      },
+      "text": {
+        "ja": "和かな 盛岡本店 (盛岡市)",
+        "en": null
+      }
+    },
+    {
+      "date": "2021-05-20T00:00:00+09:00",
+      "icon": "📄",
+      "url": {
+        "ja": "https://www.tsuruha.co.jp/dl.php?id=4105",
+        "en": null
+      },
+      "text": {
+        "ja": "ツルハドラッグ 盛岡青山店 (盛岡市)",
         "en": null
       }
     }

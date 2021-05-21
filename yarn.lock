@@ -1804,10 +1804,10 @@
     "@types/d3-interpolate" "*"
     "@types/d3-selection" "*"
 
-"@types/d3@6.4.0":
-  version "6.4.0"
-  resolved "https://registry.yarnpkg.com/@types/d3/-/d3-6.4.0.tgz#50c1a30e07265357cebbd0c951bc7c1c403a3951"
-  integrity sha512-Np+Q9PuGBAFsjeVSZC1JlnczfOrLNNqDVuwgl2RJV1hmwsOMM8Q7XaVk+tFcJBHKARzwPd5u4K8n9lu8juWN2w==
+"@types/d3@6.6.0":
+  version "6.6.0"
+  resolved "https://registry.yarnpkg.com/@types/d3/-/d3-6.6.0.tgz#b1f2c916d5734f7f74bd0853e06ca5e7f946c491"
+  integrity sha512-YybKWTIulg+ecSKflvMRYx+G1FJ7SFKfdknw2DU1TSDsvzO+yD8IfEaUOcvdnY/GRg5mbaRmURR7tgmiRsK1Iw==
   dependencies:
     "@types/d3-array" "*"
     "@types/d3-axis" "*"

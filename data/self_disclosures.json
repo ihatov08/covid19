@@ -2320,7 +2320,7 @@
       "date": "2021-05-20T00:00:00+09:00",
       "icon": "📄",
       "url": {
-        "ja": "https://youtu.be/KIMhbmpLunE?t=50",
+        "ja": "http://www.city.morioka.iwate.jp/kenkou/kenko/1031971/1032075/1033980.html",
         "en": null
       },
       "text": {
@@ -2493,6 +2493,18 @@
       },
       "text": {
         "ja": "岩手県警察本部 (盛岡市)",
+        "en": null
+      }
+    },
+    {
+      "date": "2021-05-22T00:00:00+09:00",
+      "icon": "📄",
+      "url": {
+        "ja": "https://emergency.aeon.jp/moriokaminami/.assets/HP%E7%AC%AC%E4%B8%80%E5%BC%BE.pdf",
+        "en": null
+      },
+      "text": {
+        "ja": "ニュースタイル (イオンモール盛岡南) (盛岡市)",
         "en": null
       }
     }

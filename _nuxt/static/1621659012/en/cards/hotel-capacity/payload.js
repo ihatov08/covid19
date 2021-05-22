@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/en/cards/hotel-capacity", {data:[{}],fetch:{},mutations:void 0});

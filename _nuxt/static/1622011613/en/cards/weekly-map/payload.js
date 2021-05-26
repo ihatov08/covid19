@@ -1,1 +1,0 @@
-__NUXT_JSONP__("/en/cards/weekly-map", {data:[{}],fetch:{},mutations:void 0});

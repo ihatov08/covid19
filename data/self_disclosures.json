@@ -3071,6 +3071,30 @@
         "ja": "イオンモール盛岡 1F (ワンラブ) (盛岡市前潟)",
         "en": null
       }
+    },
+    {
+      "date": "2021-06-05T00:00:00+09:00",
+      "icon": "📄",
+      "url": {
+        "ja": "https://www.facebook.com/shinzakijinsei.official",
+        "en": null
+      },
+      "text": {
+        "ja": "みちのくプロレス",
+        "en": null
+      }
+    },
+    {
+      "date": "2021-05-28T00:00:00+09:00",
+      "icon": "📄",
+      "url": {
+        "ja": "https://www.facebook.com/moriokabuffalo/",
+        "en": null
+      },
+      "text": {
+        "ja": "BUFFALO [臨時休業について] (盛岡市)",
+        "en": null
+      }
     }
   ]
 }

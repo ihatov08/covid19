@@ -1,5 +1,5 @@
 {
-  "date": "2021-06-16T19:07:58+09:00",
+  "date": "2021-06-19T15:43:00+09:00",
   "data": [
     {
       "date": "2020-02-13T00:00:00+09:00",
@@ -3430,6 +3430,27 @@
       "hotel": 41,
       "hospitalized": 102,
       "waiting": 5
+    },
+    {
+      "date": "2021-06-17T00:00:00+09:00",
+      "hospital": 60,
+      "hotel": 44,
+      "hospitalized": 104,
+      "waiting": 0
+    },
+    {
+      "date": "2021-06-18T00:00:00+09:00",
+      "hospital": 57,
+      "hotel": 43,
+      "hospitalized": 100,
+      "waiting": 0
+    },
+    {
+      "date": "2021-06-19T00:00:00+09:00",
+      "hospital": 52,
+      "hotel": 33,
+      "hospitalized": 85,
+      "waiting": 1
     }
   ]
 }

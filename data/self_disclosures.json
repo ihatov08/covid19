@@ -3388,7 +3388,7 @@
       "date": "2021-07-02T00:00:00+09:00",
       "icon": "📄",
       "url": {
-        "ja": "https://www.youtube.com/watch?v=T_V7sxBi5q0",
+        "ja": "https://youtu.be/T_V7sxBi5q0?t=578",
         "en": null
       },
       "text": {
@@ -3404,7 +3404,7 @@
         "en": null
       },
       "text": {
-        "ja": "江差プリント社 (奥州市)",
+        "ja": "江刺プリント社 (奥州市)",
         "en": null
       }
     },
@@ -3417,6 +3417,114 @@
       },
       "text": {
         "ja": "奥州市議会 (奥州市)",
+        "en": null
+      }
+    },
+    {
+      "date": "2021-07-02T00:00:00+09:00",
+      "icon": "📄",
+      "url": {
+        "ja": "https://twitter.com/kaisen_isabaya/status/1410874354687090696",
+        "en": null
+      },
+      "text": {
+        "ja": "海鮮処五十集屋 [陽性者来店と今後のスケジュール] (盛岡市)",
+        "en": null
+      }
+    },
+    {
+      "date": "2021-07-04T00:00:00+09:00",
+      "icon": "📄",
+      "url": {
+        "ja": "https://twitter.com/kaisen_isabaya/status/1411604208160178176",
+        "en": null
+      },
+      "text": {
+        "ja": "海鮮処五十集屋 [陰性報告] (盛岡市)",
+        "en": null
+      }
+    },
+    {
+      "date": "2021-07-04T00:00:00+09:00",
+      "icon": "📄",
+      "url": {
+        "ja": "https://www.city.kitakami.iwate.jp/life/emergency/corona/kenkou_iryou/19664.html",
+        "en": null
+      },
+      "text": {
+        "ja": "北上市企画部 市役所本庁舎 (北上市)",
+        "en": null
+      }
+    },
+    {
+      "date": "2021-07-03T00:00:00+09:00",
+      "icon": "📄",
+      "url": {
+        "ja": "https://www.ichitabi.jp/information/article.php?p=1010",
+        "en": null
+      },
+      "text": {
+        "ja": "一関市観光協会 一ノ関駅前観光案内所 (一関市)",
+        "en": null
+      }
+    },
+    {
+      "date": "2021-07-04T00:00:00+09:00",
+      "icon": "📄",
+      "url": {
+        "ja": "https://www.nttdocomo.co.jp/support/shop/search/shop.html?id=0200201304300",
+        "en": null
+      },
+      "text": {
+        "ja": "ドコモショップ 北上イオンタウン店 (北上市)",
+        "en": null
+      }
+    },
+    {
+      "date": "2021-07-05T00:00:00+09:00",
+      "icon": "📄",
+      "url": {
+        "ja": "https://geo-online.co.jp/news/296",
+        "en": null
+      },
+      "text": {
+        "ja": "ゲオ北上常盤台店 (北上市)",
+        "en": null
+      }
+    },
+    {
+      "date": "2021-07-05T00:00:00+09:00",
+      "icon": "📄",
+      "url": {
+        "ja": "http://esashi.co.jp/houkoku.html",
+        "en": null
+      },
+      "text": {
+        "ja": "江刺プリント社 [接触者の陰性報告] (奥州市)",
+        "en": null
+      }
+    },
+    {
+      "date": "2021-07-05T00:00:00+09:00",
+      "icon": "📄",
+      "url": {
+        "ja": "https://www.aeontown.co.jp/kitakami/newstopics/detail/?id=5484",
+        "en": null
+      },
+      "text": {
+        "ja": "イオンタウン北上 (ドコモショップ) (北上市)",
+        "en": null
+      }
+    },
+    {
+      "date": "2021-06-25T00:00:00+09:00",
+      "icon": "📄",
+      "url": {
+        "ja": "https://www.prudential.co.jp/news/pdf/633/coronavirus_info.pdf",
+        "en": null
+      },
+      "text": {
+        "ja": "プルデンシャル生命保険 盛岡支社 (盛岡市)",
         "en": null
       }
     }

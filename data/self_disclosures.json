@@ -3688,7 +3688,7 @@
       "date": "2021-07-14",
       "icon": "📄",
       "url": {
-        "ja": "https://www.city.kitakami.iwate.jp/life/emergency/16556.html",
+        "ja": "https://www.city.kitakami.iwate.jp/material/files/group/1/20210714.pdf",
         "en": null
       },
       "text": {
@@ -3729,6 +3729,138 @@
       },
       "text": {
         "ja": "ローソン北上大堤店 (北上市)",
+        "en": null
+      }
+    },
+    {
+      "date": "2021-07-16",
+      "icon": "📄",
+      "url": {
+        "ja": "https://www.aeonsportsclub.jp/store-info/%e7%9b%9b%e5%b2%a1%e5%8d%97%e5%ba%97%e3%80%80%e6%96%b0%e5%9e%8b%e3%82%b3%e3%83%ad%e3%83%8a%e3%82%a6%e3%82%a4%e3%83%ab%e3%82%b9%e6%84%9f%e6%9f%93%e7%a2%ba%e8%aa%8d%e3%81%ab%e9%96%a2%e3%81%99%e3%82%8b/",
+        "en": null
+      },
+      "text": {
+        "ja": "イオンスポーツクラブ盛岡南店 [感染者の利用と営業継続] (盛岡市本宮)",
+        "en": null
+      }
+    },
+    {
+      "date": "2021-07-17",
+      "icon": "📄",
+      "url": {
+        "ja": "https://www.aeonsportsclub.jp/store-info/%e7%9b%9b%e5%b2%a1%e5%8d%97%e5%ba%97%e6%96%b0%e5%9e%8b%e3%82%b3%e3%83%ad%e3%83%8a%e3%82%a6%e3%82%a4%e3%83%ab%e3%82%b9%e6%84%9f%e6%9f%93%e7%a2%ba%e8%aa%8d%e3%81%ab%e9%96%a2%e3%81%99%e3%82%8b%e3%81%8a/",
+        "en": null
+      },
+      "text": {
+        "ja": "イオンスポーツクラブ盛岡南店 [一時営業休止と清掃消毒] (盛岡市本宮)",
+        "en": null
+      }
+    },
+    {
+      "date": "2021-07-18",
+      "icon": "📄",
+      "url": {
+        "ja": "https://www.aeonsportsclub.jp/store-info/%e3%82%a4%e3%82%aa%e3%83%b3%e3%82%b9%e3%83%9d%e3%83%bc%e3%83%84%e3%82%af%e3%83%a9%e3%83%96%e7%9b%9b%e5%b2%a1%e5%8d%97%e5%ba%97%e3%80%80%e8%87%a8%e6%99%82%e4%bc%91%e9%a4%a8%e3%81%ab%e9%96%a2%e3%81%99/",
+        "en": null
+      },
+      "text": {
+        "ja": "イオンスポーツクラブ盛岡南店 [臨時休館] (盛岡市本宮)",
+        "en": null
+      }
+    },
+    {
+      "date": "2021-07-17",
+      "icon": "📄",
+      "url": {
+        "ja": "https://emergency.aeon.jp/moriokaminami/.assets/0717-1%E3%81%8A%E5%AE%A2%E6%A7%98%E3%81%B8%E3%81%AE%E3%81%8A%E7%9F%A5%E3%82%89%E3%81%9B%E3%82%A4%E3%82%AA%E3%83%B3%E3%82%B9%E3%83%9D%E3%83%BC%E3%83%84.pdf",
+        "en": null
+      },
+      "text": {
+        "ja": "イオンモール盛岡南 [イオンスポーツクラブ] (盛岡市本宮)",
+        "en": null
+      }
+    },
+    {
+      "date": "2021-07-18",
+      "icon": "📄",
+      "url": {
+        "ja": "https://emergency.aeon.jp/moriokaminami/.assets/0718%E3%81%8A%E5%AE%A2%E3%81%95%E3%81%BE%E3%81%B8%E3%81%AE%E3%81%8A%E7%9F%A5%E3%82%89%E3%81%9B%E3%82%A4%E3%82%AA%E3%83%B3%E3%82%B9%E3%83%9D%E3%83%BC%E3%83%84.pdf",
+        "en": null
+      },
+      "text": {
+        "ja": "イオンモール盛岡南 [イオンスポーツクラブ 更新] (盛岡市本宮)",
+        "en": null
+      }
+    },
+    {
+      "date": "2021-07-19",
+      "icon": "📄",
+      "url": {
+        "ja": "https://emergency.aeon.jp/moriokaminami/.assets/HP%E6%8E%B2%E8%BC%89JEUGIA%E3%82%A4%E3%82%AA%E3%83%B3%E3%82%B9%E3%83%9D%E3%83%BC%E3%83%84.pdf",
+        "en": null
+      },
+      "text": {
+        "ja": "イオンモール盛岡南 [JEUGIAカルチャーセンター] (盛岡市本宮)",
+        "en": null
+      }
+    },
+    {
+      "date": "2021-07-19",
+      "icon": "📄",
+      "url": {
+        "ja": "https://culture.jeugia.co.jp/news_detail_43-11524.html",
+        "en": null
+      },
+      "text": {
+        "ja": "JEUGIAカルチャーセンター (盛岡市本宮)",
+        "en": null
+      }
+    },
+    {
+      "date": "2021-05-17",
+      "icon": "📄",
+      "url": {
+        "ja": "https://www.e-nexco.co.jp/news/cms_assets/news/2021/05/17/pdf.pdf",
+        "en": "https://www.e-nexco.co.jp/en/news/important_info/2021/0517/00009813.html"
+      },
+      "text": {
+        "ja": "岩手ハイウェイサービス [紫波サービスエリア 上り線] (紫波町)",
+        "en": "岩手ハイウェイサービス [紫波サービスエリア 上り線] (紫波町)"
+      }
+    },
+    {
+      "date": "2021-07-19",
+      "icon": "📄",
+      "url": {
+        "ja": "https://www.e-nexco.co.jp/news/cms_assets/news/2021/07/19/pdf.pdf",
+        "en": "https://www.e-nexco.co.jp/en/news/important_info/2021/0719/00010007.html"
+      },
+      "text": {
+        "ja": "NEXCO東日本 グループ会社 (北上市)",
+        "en": "NEXCO EAST group company (Kitakami)"
+      }
+    },
+    {
+      "date": "2021-07-20",
+      "icon": "📄",
+      "url": {
+        "ja": "https://emergency.aeon.jp/moriokaminami/.assets/0720JEUGIA%E3%82%A4%E3%82%AA%E3%83%B3%E3%82%B9%E3%83%9D%E3%83%BC%E3%83%84.pdf",
+        "en": null
+      },
+      "text": {
+        "ja": "イオンモール盛岡南 [更新] (盛岡市本宮)",
+        "en": null
+      }
+    },
+    {
+      "date": "2021-07-14",
+      "icon": "📄",
+      "url": {
+        "ja": "https://www.nichiigakkan.co.jp/593ee7dafb3cd6decaa6f582a59b886acfa11c3a.pdf",
+        "en": null
+      },
+      "text": {
+        "ja": "ニチイケアセンター北上中央 (北上市)",
         "en": null
       }
     }

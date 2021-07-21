@@ -3863,6 +3863,42 @@
         "ja": "ニチイケアセンター北上中央 (北上市)",
         "en": null
       }
+    },
+    {
+      "date": "2021-07-20",
+      "icon": "📄",
+      "url": {
+        "ja": "https://gtimg.tokyo2020.org/image/upload/production/zrkrsrrtex0pecb78ckc.pdf",
+        "en": "https://gtimg.tokyo2020.org/image/upload/production/zrkrsrrtex0pecb78ckc.pdf"
+      },
+      "text": {
+        "ja": "東京2020 大会ボランティア No.60 (岩手県)",
+        "en": "Tokyo2020 volunteers No.60 (Iwate)"
+      }
+    },
+    {
+      "date": "2021-07-21",
+      "icon": "📄",
+      "url": {
+        "ja": "http://grulla-morioka.jp/tab09_club/news210721-01/",
+        "en": null
+      },
+      "text": {
+        "ja": "いわてグルージャ盛岡 (盛岡市)",
+        "en": null
+      }
+    },
+    {
+      "date": "2021-07-19",
+      "icon": "📄",
+      "url": {
+        "ja": "https://www.asahi-life.co.jp/oshirase_20210719.pdf",
+        "en": null
+      },
+      "text": {
+        "ja": "朝日生命 北上営業所 (北上市)",
+        "en": null
+      }
     }
   ]
 }

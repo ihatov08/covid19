@@ -3911,6 +3911,42 @@
         "ja": "阿部繁孝商店 九戸工場 (九戸村)",
         "en": null
       }
+    },
+    {
+      "date": "2021-07-23",
+      "icon": "📄",
+      "url": {
+        "ja": "https://www.warabeya.co.jp/ja/news2/news22672574071731952761/main/0/link/20210723oshirase_iwate.pdf",
+        "en": null
+      },
+      "text": {
+        "ja": "わらべや日洋 岩手工場 (北上市)",
+        "en": null
+      }
+    },
+    {
+      "date": "2021-07-20",
+      "icon": "📄",
+      "url": {
+        "ja": "https://www.sankyocc.jp/topics/20210720.html",
+        "en": null
+      },
+      "text": {
+        "ja": "三協技術 盛岡支店 (盛岡市)",
+        "en": null
+      }
+    },
+    {
+      "date": "2021-07-24",
+      "icon": "📄",
+      "url": {
+        "ja": "https://www.warabeya.co.jp/ja/news2/news28237173098666693059/main/0/link/20210724oshirase_iwate.pdf",
+        "en": null
+      },
+      "text": {
+        "ja": "わらべや日洋 岩手工場 (北上市)",
+        "en": null
+      }
     }
   ]
 }

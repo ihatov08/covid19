@@ -5,7 +5,7 @@
   "author": "岩手県内有志",
   "private": true,
   "engines": {
-    "node": ">=14.17.3"
+    "node": ">=14.17.4"
   },
   "scripts": {
     "dev": "cross-env NODE_ENV=development GENERATE_ENV=development nuxt --config-file nuxt.config.dev.ts",
@@ -64,7 +64,7 @@
     "@types/chartjs-plugin-annotation": "0.5.2",
     "@types/pulltorefreshjs": "0.1.5",
     "axe-core": "4.3.2",
-    "core-js": "3.15.2",
+    "core-js": "3.16.0",
     "eslint": "7.31.0",
     "eslint-config-prettier": "8.3.0",
     "eslint-plugin-prettier": "3.4.0",

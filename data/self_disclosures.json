@@ -86,7 +86,7 @@
     },
     {
       "date": "2020-11-13",
-      "icon": "📄",
+      "icon": "📺",
       "url": {
         "ja": "https://www.youtube.com/watch?v=Fp9LK7rVdDY",
         "en": null
@@ -98,7 +98,7 @@
     },
     {
       "date": "2020-11-13",
-      "icon": "📄",
+      "icon": "📺",
       "url": {
         "ja": "https://www.youtube.com/watch?v=Fp9LK7rVdDY",
         "en": null
@@ -122,7 +122,7 @@
     },
     {
       "date": "2020-11-13",
-      "icon": "📄",
+      "icon": "📺",
       "url": {
         "ja": "https://youtu.be/8IkCe27e6eI?t=3641",
         "en": null
@@ -134,7 +134,7 @@
     },
     {
       "date": "2020-11-13",
-      "icon": "📄",
+      "icon": "📺",
       "url": {
         "ja": "https://youtu.be/8IkCe27e6eI?t=3794",
         "en": null
@@ -146,7 +146,7 @@
     },
     {
       "date": "2020-11-12",
-      "icon": "📄",
+      "icon": "📺",
       "url": {
         "ja": "https://youtu.be/WiRQAaUdli8?t=326",
         "en": null
@@ -458,7 +458,7 @@
     },
     {
       "date": "2021-01-08",
-      "icon": "📄",
+      "icon": "📺",
       "url": {
         "ja": "https://youtu.be/E7D7mncAzAk?t=378",
         "en": null
@@ -818,7 +818,7 @@
     },
     {
       "date": "2021-03-25",
-      "icon": "📄",
+      "icon": "📺",
       "url": {
         "ja": "https://youtu.be/znzZvK4kPxE?t=110",
         "en": null
@@ -974,7 +974,7 @@
     },
     {
       "date": "2021-04-04",
-      "icon": "📄",
+      "icon": "📺",
       "url": {
         "ja": "https://youtu.be/1DsdhmQu-6Y?t=323",
         "en": null
@@ -986,7 +986,7 @@
     },
     {
       "date": "2021-04-04",
-      "icon": "📄",
+      "icon": "📺",
       "url": {
         "ja": "https://youtu.be/1DsdhmQu-6Y?t=323",
         "en": null
@@ -1070,7 +1070,7 @@
     },
     {
       "date": "2021-04-08",
-      "icon": "📄",
+      "icon": "📺",
       "url": {
         "ja": "https://youtu.be/IU6UqfdcKu4?t=249",
         "en": null
@@ -1490,7 +1490,7 @@
     },
     {
       "date": "2021-05-04",
-      "icon": "📄",
+      "icon": "📺",
       "url": {
         "ja": "https://youtu.be/mWHVO4s21dQ?t=602",
         "en": null
@@ -1502,7 +1502,7 @@
     },
     {
       "date": "2021-05-04",
-      "icon": "📄",
+      "icon": "📺",
       "url": {
         "ja": "https://youtu.be/mWHVO4s21dQ?t=682",
         "en": null
@@ -1598,7 +1598,7 @@
     },
     {
       "date": "2021-05-07",
-      "icon": "📄",
+      "icon": "📺",
       "url": {
         "ja": "https://youtu.be/9Lqu_BcelyI?t=710",
         "en": null
@@ -1682,7 +1682,7 @@
     },
     {
       "date": "2021-05-09",
-      "icon": "📄",
+      "icon": "📺",
       "url": {
         "ja": "https://youtu.be/AQtcBjv5DpI?t=557",
         "en": null
@@ -1730,7 +1730,7 @@
     },
     {
       "date": "2021-05-10",
-      "icon": "📄",
+      "icon": "📺",
       "url": {
         "ja": "https://youtu.be/yubQBYfxc6A?t=1840",
         "en": null
@@ -1838,7 +1838,7 @@
     },
     {
       "date": "2021-05-13",
-      "icon": "📄",
+      "icon": "📺",
       "url": {
         "ja": "https://youtu.be/TXxQkr2dS9U?t=565",
         "en": null
@@ -1850,7 +1850,7 @@
     },
     {
       "date": "2021-05-13",
-      "icon": "📄",
+      "icon": "📺",
       "url": {
         "ja": "https://youtu.be/TXxQkr2dS9U?t=565",
         "en": null
@@ -2114,7 +2114,7 @@
     },
     {
       "date": "2021-05-17",
-      "icon": "📄",
+      "icon": "📺",
       "url": {
         "ja": "https://youtu.be/vJXfO2oSP9w?t=707",
         "en": null
@@ -3074,7 +3074,7 @@
     },
     {
       "date": "2021-06-05",
-      "icon": "📄",
+      "icon": "📺",
       "url": {
         "ja": "https://youtu.be/5N-YO2Ds_k4?t=587",
         "en": null
@@ -3386,7 +3386,7 @@
     },
     {
       "date": "2021-07-02",
-      "icon": "📄",
+      "icon": "📺",
       "url": {
         "ja": "https://youtu.be/T_V7sxBi5q0?t=578",
         "en": null
@@ -4034,7 +4034,7 @@
     },
     {
       "date": "2021-07-27",
-      "icon": "📄",
+      "icon": "📺",
       "url": {
         "ja": "https://youtu.be/DP6TfLNeSPI?t=368",
         "en": null
@@ -4053,6 +4053,66 @@
       },
       "text": {
         "ja": "ゲオ奥州水沢佐倉河店 (奥州市)",
+        "en": null
+      }
+    },
+    {
+      "date": "2021-07-29",
+      "icon": "📄",
+      "url": {
+        "ja": "https://www.yamada-denki.jp/information/200419prevention/pdf/210729_02.pdf",
+        "en": null
+      },
+      "text": {
+        "ja": "家電住まいる館 YAMADA 盛岡本店 (盛岡市)",
+        "en": null
+      }
+    },
+    {
+      "date": "2021-07-29",
+      "icon": "📄",
+      "url": {
+        "ja": "https://ninohe-suntop.co.jp/oshirase_0729.pdf",
+        "en": null
+      },
+      "text": {
+        "ja": "二戸サントップ (二戸市)",
+        "en": null
+      }
+    },
+    {
+      "date": "2021-07-27",
+      "icon": "📄",
+      "url": {
+        "ja": "https://www.sankyocc.jp/topics/20210727.html",
+        "en": null
+      },
+      "text": {
+        "ja": "三協技術 盛岡支店 [経過報告] (盛岡市)",
+        "en": null
+      }
+    },
+    {
+      "date": "2021-07-30",
+      "icon": "📄",
+      "url": {
+        "ja": "https://www.warabeya.co.jp/ja/news2/news2-3322902653558388595/main/0/link/20210730oshirase_iwate.pdf",
+        "en": null
+      },
+      "text": {
+        "ja": "わらべや日洋 岩手工場 (北上市)",
+        "en": null
+      }
+    },
+    {
+      "date": "2021-07-30",
+      "icon": "📺",
+      "url": {
+        "ja": "https://www.youtube.com/watch?v=DVqXBI-ryvg",
+        "en": null
+      },
+      "text": {
+        "ja": "岩手県庁 10F 教育委員会 事務局 (盛岡市)",
         "en": null
       }
     }

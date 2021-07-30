@@ -1,5 +1,5 @@
 {
-  "date": "2021-07-28T15:29:02+09:00",
+  "date": "2021-07-30T15:26:49+09:00",
   "data": [
     {
       "date": "2020-02-13",
@@ -3724,6 +3724,20 @@
       "hotel": 17,
       "hospitalized": 100,
       "waiting": 6
+    },
+    {
+      "date": "2021-07-29",
+      "hospital": 87,
+      "hotel": 19,
+      "hospitalized": 106,
+      "waiting": 4
+    },
+    {
+      "date": "2021-07-30",
+      "hospital": 91,
+      "hotel": 23,
+      "hospitalized": 114,
+      "waiting": 7
     }
   ]
 }

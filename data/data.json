@@ -1,6 +1,6 @@
 {
   "patients": {
-    "date": "2021-07-30T15:26:49+09:00",
+    "date": "2021-07-31T16:35:27+09:00",
     "data": [
       {
         "id": 1,
@@ -21587,99 +21587,99 @@
       {
         "id": 1963,
         "確定日": "2021-07-29",
-        "発症日": null,
+        "発症日": "2021-07-29",
         "無症状": false,
         "年代": "30代",
         "居住地": "盛岡市",
-        "url": null,
+        "url": "http://www.city.morioka.iwate.jp/kenkou/kenko/1031971/1032075/1032217/1036273.html",
         "yt": "DVqXBI-ryvg",
         "接触歴": "判明"
       },
       {
         "id": 1964,
         "確定日": "2021-07-29",
-        "発症日": null,
+        "発症日": "2021-07-26",
         "無症状": false,
         "年代": "40代",
         "居住地": "盛岡市",
-        "url": null,
+        "url": "http://www.city.morioka.iwate.jp/kenkou/kenko/1031971/1032075/1032217/1036274.html",
         "yt": "DVqXBI-ryvg",
         "接触歴": "判明"
       },
       {
         "id": 1965,
         "確定日": "2021-07-29",
-        "発症日": null,
+        "発症日": "2021-07-27",
         "無症状": false,
         "年代": "50代",
         "居住地": "盛岡市",
-        "url": null,
+        "url": "http://www.city.morioka.iwate.jp/kenkou/kenko/1031971/1032075/1032217/1036275.html",
         "yt": "DVqXBI-ryvg",
         "接触歴": "判明"
       },
       {
         "id": 1966,
         "確定日": "2021-07-29",
-        "発症日": null,
+        "発症日": "2021-07-28",
         "無症状": false,
         "年代": "40代",
         "居住地": "盛岡市",
-        "url": null,
+        "url": "http://www.city.morioka.iwate.jp/kenkou/kenko/1031971/1032075/1032217/1036276.html",
         "yt": "DVqXBI-ryvg",
         "接触歴": "判明"
       },
       {
         "id": 1967,
         "確定日": "2021-07-29",
-        "発症日": null,
+        "発症日": "2021-07-21",
         "無症状": false,
         "年代": "30代",
         "居住地": "盛岡市",
-        "url": null,
+        "url": "http://www.city.morioka.iwate.jp/kenkou/kenko/1031971/1032075/1032217/1036277.html",
         "yt": "DVqXBI-ryvg",
         "接触歴": "不明"
       },
       {
         "id": 1968,
         "確定日": "2021-07-29",
-        "発症日": null,
+        "発症日": "2021-07-27",
         "無症状": false,
         "年代": "30代",
         "居住地": "盛岡市",
-        "url": null,
+        "url": "http://www.city.morioka.iwate.jp/kenkou/kenko/1031971/1032075/1032217/1036278.html",
         "yt": "DVqXBI-ryvg",
         "接触歴": "不明"
       },
       {
         "id": 1969,
         "確定日": "2021-07-29",
-        "発症日": null,
+        "発症日": "2021-07-26",
         "無症状": false,
         "年代": "30代",
         "居住地": "盛岡市",
-        "url": null,
+        "url": "http://www.city.morioka.iwate.jp/kenkou/kenko/1031971/1032075/1032217/1036279.html",
         "yt": "DVqXBI-ryvg",
         "接触歴": "不明"
       },
       {
         "id": 1970,
         "確定日": "2021-07-29",
-        "発症日": null,
+        "発症日": "2021-07-25",
         "無症状": false,
         "年代": "30代",
         "居住地": "盛岡市",
-        "url": null,
+        "url": "http://www.city.morioka.iwate.jp/kenkou/kenko/1031971/1032075/1032217/1036280.html",
         "yt": "DVqXBI-ryvg",
         "接触歴": "不明"
       },
       {
         "id": 1971,
         "確定日": "2021-07-29",
-        "発症日": null,
+        "発症日": "2021-07-28",
         "無症状": false,
         "年代": "10代",
         "居住地": "県央保健所管内",
-        "url": null,
+        "url": "https://www.pref.iwate.jp/kurashikankyou/iryou/covid19/1044103/1045381.html",
         "yt": "DVqXBI-ryvg",
         "接触歴": "判明"
       },
@@ -21687,54 +21687,54 @@
         "id": 1972,
         "確定日": "2021-07-29",
         "発症日": null,
-        "無症状": false,
+        "無症状": true,
         "年代": "50代",
         "居住地": "八幡平市",
-        "url": null,
+        "url": "https://www.pref.iwate.jp/kurashikankyou/iryou/covid19/1044103/1045382.html",
         "yt": "DVqXBI-ryvg",
         "接触歴": "判明"
       },
       {
         "id": 1973,
         "確定日": "2021-07-29",
-        "発症日": null,
+        "発症日": "2021-07-27",
         "無症状": false,
         "年代": "30代",
         "居住地": "県央保健所管内",
-        "url": null,
+        "url": "https://www.pref.iwate.jp/kurashikankyou/iryou/covid19/1044103/1045383.html",
         "yt": "DVqXBI-ryvg",
         "接触歴": "不明"
       },
       {
         "id": 1974,
         "確定日": "2021-07-29",
-        "発症日": null,
+        "発症日": "2021-07-26",
         "無症状": false,
         "年代": "60代",
         "居住地": "花巻市",
-        "url": null,
+        "url": "https://www.pref.iwate.jp/kurashikankyou/iryou/covid19/1044103/1045384.html",
         "yt": "DVqXBI-ryvg",
         "接触歴": "判明"
       },
       {
         "id": 1975,
         "確定日": "2021-07-29",
-        "発症日": null,
+        "発症日": "2021-07-23",
         "無症状": false,
         "年代": "40代",
         "居住地": "奥州保健所管内",
-        "url": null,
+        "url": "https://www.pref.iwate.jp/kurashikankyou/iryou/covid19/1044103/1045385.html",
         "yt": "DVqXBI-ryvg",
         "接触歴": "判明"
       },
       {
         "id": 1976,
         "確定日": "2021-07-29",
-        "発症日": null,
+        "発症日": "2021-07-28",
         "無症状": false,
         "年代": "40代",
         "居住地": "奥州保健所管内",
-        "url": null,
+        "url": "https://www.pref.iwate.jp/kurashikankyou/iryou/covid19/1044103/1045386.html",
         "yt": "DVqXBI-ryvg",
         "接触歴": "判明"
       },
@@ -21742,61 +21742,292 @@
         "id": 1977,
         "確定日": "2021-07-29",
         "発症日": null,
-        "無症状": false,
+        "無症状": true,
         "年代": "10歳未満",
         "居住地": "奥州保健所管内",
-        "url": null,
+        "url": "https://www.pref.iwate.jp/kurashikankyou/iryou/covid19/1044103/1045387.html",
         "yt": "DVqXBI-ryvg",
         "接触歴": "判明"
       },
       {
         "id": 1978,
         "確定日": "2021-07-29",
-        "発症日": null,
+        "発症日": "2021-07-15",
         "無症状": false,
         "年代": "60代",
         "居住地": "奥州保健所管内",
-        "url": null,
+        "url": "https://www.pref.iwate.jp/kurashikankyou/iryou/covid19/1044103/1045388.html",
         "yt": "DVqXBI-ryvg",
         "接触歴": "判明"
       },
       {
         "id": 1979,
         "確定日": "2021-07-29",
-        "発症日": null,
+        "発症日": "2021-07-26",
         "無症状": false,
         "年代": "50代",
         "居住地": "宮古市",
-        "url": null,
+        "url": "https://www.pref.iwate.jp/kurashikankyou/iryou/covid19/1044103/1045389.html",
         "yt": "DVqXBI-ryvg",
         "接触歴": "不明"
       },
       {
         "id": 1980,
         "確定日": "2021-07-29",
-        "発症日": null,
+        "発症日": "2021-07-28",
         "無症状": false,
         "年代": "10歳未満",
         "居住地": "久慈保健所管内",
-        "url": null,
+        "url": "https://www.pref.iwate.jp/kurashikankyou/iryou/covid19/1044103/1045390.html",
         "yt": "DVqXBI-ryvg",
         "接触歴": "判明"
       },
       {
         "id": 1981,
         "確定日": "2021-07-29",
-        "発症日": null,
+        "発症日": "2021-07-23",
         "無症状": false,
         "年代": "40代",
         "居住地": "二戸保健所管内",
-        "url": null,
+        "url": "https://www.pref.iwate.jp/kurashikankyou/iryou/covid19/1044103/1045391.html",
         "yt": "DVqXBI-ryvg",
         "接触歴": "不明"
+      },
+      {
+        "id": 1982,
+        "確定日": "2021-07-30",
+        "発症日": "2021-07-27",
+        "無症状": false,
+        "年代": "30代",
+        "居住地": "盛岡市",
+        "url": "http://www.city.morioka.iwate.jp/kenkou/kenko/1031971/1032075/1032217/1036287.html",
+        "yt": null,
+        "接触歴": "不明"
+      },
+      {
+        "id": 1983,
+        "確定日": "2021-07-30",
+        "発症日": "2021-07-28",
+        "無症状": false,
+        "年代": "40代",
+        "居住地": "盛岡市",
+        "url": "http://www.city.morioka.iwate.jp/kenkou/kenko/1031971/1032075/1032217/1036289.html",
+        "yt": null,
+        "接触歴": "判明"
+      },
+      {
+        "id": 1984,
+        "確定日": "2021-07-30",
+        "発症日": "2021-07-28",
+        "無症状": false,
+        "年代": "40代",
+        "居住地": "盛岡市",
+        "url": "http://www.city.morioka.iwate.jp/kenkou/kenko/1031971/1032075/1032217/1036290.html",
+        "yt": null,
+        "接触歴": "不明"
+      },
+      {
+        "id": 1985,
+        "確定日": "2021-07-30",
+        "発症日": "2021-07-29",
+        "無症状": false,
+        "年代": "50代",
+        "居住地": "盛岡市",
+        "url": "http://www.city.morioka.iwate.jp/kenkou/kenko/1031971/1032075/1032217/1036291.html",
+        "yt": null,
+        "接触歴": "不明"
+      },
+      {
+        "id": 1986,
+        "確定日": "2021-07-30",
+        "発症日": "2021-07-28",
+        "無症状": false,
+        "年代": "40代",
+        "居住地": "盛岡市",
+        "url": "http://www.city.morioka.iwate.jp/kenkou/kenko/1031971/1032075/1032217/1036292.html",
+        "yt": null,
+        "接触歴": "不明"
+      },
+      {
+        "id": 1987,
+        "確定日": "2021-07-30",
+        "発症日": "2021-07-29",
+        "無症状": false,
+        "年代": "10代",
+        "居住地": "盛岡市",
+        "url": "http://www.city.morioka.iwate.jp/kenkou/kenko/1031971/1032075/1032217/1036293.html",
+        "yt": null,
+        "接触歴": "不明"
+      },
+      {
+        "id": 1988,
+        "確定日": "2021-07-30",
+        "発症日": "2021-07-28",
+        "無症状": false,
+        "年代": "50代",
+        "居住地": "盛岡市",
+        "url": "http://www.city.morioka.iwate.jp/kenkou/kenko/1031971/1032075/1032217/1036294.html",
+        "yt": null,
+        "接触歴": "不明"
+      },
+      {
+        "id": 1989,
+        "確定日": "2021-07-30",
+        "発症日": "2021-07-29",
+        "無症状": false,
+        "年代": "40代",
+        "居住地": "盛岡市",
+        "url": "http://www.city.morioka.iwate.jp/kenkou/kenko/1031971/1032075/1032217/1036295.html",
+        "yt": null,
+        "接触歴": "不明"
+      },
+      {
+        "id": 1990,
+        "確定日": "2021-07-30",
+        "発症日": "2021-07-28",
+        "無症状": false,
+        "年代": "30代",
+        "居住地": "盛岡市",
+        "url": "http://www.city.morioka.iwate.jp/kenkou/kenko/1031971/1032075/1032217/1036296.html",
+        "yt": null,
+        "接触歴": "不明"
+      },
+      {
+        "id": 1991,
+        "確定日": "2021-07-30",
+        "発症日": "2021-07-27",
+        "無症状": false,
+        "年代": "30代",
+        "居住地": "盛岡市",
+        "url": "http://www.city.morioka.iwate.jp/kenkou/kenko/1031971/1032075/1032217/1036297.html",
+        "yt": null,
+        "接触歴": "判明"
+      },
+      {
+        "id": 1992,
+        "確定日": "2021-07-30",
+        "発症日": "2021-07-25",
+        "無症状": false,
+        "年代": "40代",
+        "居住地": "中部保健所管内",
+        "url": "https://www.pref.iwate.jp/kurashikankyou/iryou/covid19/1044103/1045404.html",
+        "yt": null,
+        "接触歴": "判明"
+      },
+      {
+        "id": 1993,
+        "確定日": "2021-07-30",
+        "発症日": null,
+        "無症状": true,
+        "年代": "20代",
+        "居住地": "中部保健所管内",
+        "url": "https://www.pref.iwate.jp/kurashikankyou/iryou/covid19/1044103/1045405.html",
+        "yt": null,
+        "接触歴": "判明"
+      },
+      {
+        "id": 1994,
+        "確定日": "2021-07-30",
+        "発症日": "2021-07-28",
+        "無症状": false,
+        "年代": "30代",
+        "居住地": "北上市",
+        "url": "https://www.pref.iwate.jp/kurashikankyou/iryou/covid19/1044103/1045406.html",
+        "yt": null,
+        "接触歴": "判明"
+      },
+      {
+        "id": 1995,
+        "確定日": "2021-07-30",
+        "発症日": "2021-07-28",
+        "無症状": false,
+        "年代": "50代",
+        "居住地": "北上市",
+        "url": "https://www.pref.iwate.jp/kurashikankyou/iryou/covid19/1044103/1045407.html",
+        "yt": null,
+        "接触歴": "判明"
+      },
+      {
+        "id": 1996,
+        "確定日": "2021-07-30",
+        "発症日": "2021-07-18",
+        "無症状": false,
+        "年代": "50代",
+        "居住地": "中部保健所管内",
+        "url": "https://www.pref.iwate.jp/kurashikankyou/iryou/covid19/1044103/1045408.html",
+        "yt": null,
+        "接触歴": "判明"
+      },
+      {
+        "id": 1997,
+        "確定日": "2021-07-30",
+        "発症日": null,
+        "無症状": true,
+        "年代": "40代",
+        "居住地": "北上市",
+        "url": "https://www.pref.iwate.jp/kurashikankyou/iryou/covid19/1044103/1045409.html",
+        "yt": null,
+        "接触歴": "判明"
+      },
+      {
+        "id": 1998,
+        "確定日": "2021-07-30",
+        "発症日": "2021-07-26",
+        "無症状": false,
+        "年代": "40代",
+        "居住地": "釜石保健所管内",
+        "url": "https://www.pref.iwate.jp/kurashikankyou/iryou/covid19/1044103/1045410.html",
+        "yt": null,
+        "接触歴": "不明"
+      },
+      {
+        "id": 1999,
+        "確定日": "2021-07-30",
+        "発症日": "2021-07-30",
+        "無症状": false,
+        "年代": "30代",
+        "居住地": "釜石保健所管内",
+        "url": "https://www.pref.iwate.jp/kurashikankyou/iryou/covid19/1044103/1045411.html",
+        "yt": null,
+        "接触歴": "判明"
+      },
+      {
+        "id": 2000,
+        "確定日": "2021-07-30",
+        "発症日": null,
+        "無症状": true,
+        "年代": "60代",
+        "居住地": "釜石保健所管内",
+        "url": "https://www.pref.iwate.jp/kurashikankyou/iryou/covid19/1044103/1045412.html",
+        "yt": null,
+        "接触歴": "判明"
+      },
+      {
+        "id": 2001,
+        "確定日": "2021-07-30",
+        "発症日": "2021-07-29",
+        "無症状": false,
+        "年代": "40代",
+        "居住地": "宮古市",
+        "url": "https://www.pref.iwate.jp/kurashikankyou/iryou/covid19/1044103/1045413.html",
+        "yt": null,
+        "接触歴": "判明"
+      },
+      {
+        "id": 2002,
+        "確定日": "2021-07-30",
+        "発症日": null,
+        "無症状": true,
+        "年代": "70代",
+        "居住地": "宮古市",
+        "url": "https://www.pref.iwate.jp/kurashikankyou/iryou/covid19/1044103/1045414.html",
+        "yt": null,
+        "接触歴": "判明"
       }
     ]
   },
   "patients_summary": {
-    "date": "2021-07-30T15:26:49+09:00",
+    "date": "2021-07-31T16:35:27+09:00",
     "data": [
       {
         "日付": "2020-02-15",
@@ -23925,8 +24156,12 @@
       {
         "日付": "2021-07-30",
         "小計": 19
+      },
+      {
+        "日付": "2021-07-31",
+        "小計": 21
       }
     ]
   },
-  "lastUpdate": "2021-07-30T15:26:49+09:00"
+  "lastUpdate": "2021-07-31T16:35:27+09:00"
 }

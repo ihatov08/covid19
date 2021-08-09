@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/cards/stage", {data:[{}],fetch:{},mutations:void 0});

@@ -4403,6 +4403,42 @@
         "ja": "釜石職業訓練協会 (釜石市)",
         "en": null
       }
+    },
+    {
+      "date": "2021-08-07",
+      "icon": "📄",
+      "url": {
+        "ja": "https://www.kk-oyama.co.jp/oshirase.html",
+        "en": null
+      },
+      "text": {
+        "ja": "オヤマ デリカ工場 (一関市)",
+        "en": null
+      }
+    },
+    {
+      "date": "2021-08-07",
+      "icon": "📄",
+      "url": {
+        "ja": "http://www.quatre-m.com/cms/wp-content/uploads/2021/08/c429b1618cd8d2356968ababab72b116.pdf",
+        "en": null
+      },
+      "text": {
+        "ja": "キャトル宮古 [あらためて消毒清掃を行うために休業] (宮古市)",
+        "en": null
+      }
+    },
+    {
+      "date": "2021-08-06",
+      "icon": "📄",
+      "url": {
+        "ja": "https://www.japanpost.jp/information/notices2_list.pdf",
+        "en": null
+      },
+      "text": {
+        "ja": "ゆうちょ銀行盛岡店 [盛岡中央郵便局] (盛岡市)",
+        "en": null
+      }
     }
   ]
 }

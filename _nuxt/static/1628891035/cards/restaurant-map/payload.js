@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/cards/restaurant-map", {data:[{}],fetch:{},mutations:void 0});

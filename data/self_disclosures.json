@@ -4871,6 +4871,90 @@
         "ja": "イオンモール盛岡 (ピザハット) (盛岡市前潟)",
         "en": null
       }
+    },
+    {
+      "date": "2021-08-10",
+      "icon": "📄",
+      "url": {
+        "ja": "https://ichinoseki-ds.co.jp/contents/covid-19_814.php",
+        "en": null
+      },
+      "text": {
+        "ja": "一関ファーストドライビングスクール (一関市)",
+        "en": null
+      }
+    },
+    {
+      "date": "2021-08-17",
+      "icon": "📄",
+      "url": {
+        "ja": "https://www.iwate-u.ac.jp/info/important/2021/08/004323.html",
+        "en": null
+      },
+      "text": {
+        "ja": "岩手大学 (盛岡市)",
+        "en": null
+      }
+    },
+    {
+      "date": "2021-08-17",
+      "icon": "📄",
+      "url": {
+        "ja": "https://www.iwate-med.ac.jp/news/n1-information/21081701-soumu/",
+        "en": null
+      },
+      "text": {
+        "ja": "岩手医科大学 (矢巾町)",
+        "en": null
+      }
+    },
+    {
+      "date": "2021-08-17",
+      "icon": "📄",
+      "url": {
+        "ja": "https://www.universe.co.jp/new/store/post_669.html",
+        "en": null
+      },
+      "text": {
+        "ja": "ユニバース 中野店 (盛岡市)",
+        "en": null
+      }
+    },
+    {
+      "date": "2021-08-17",
+      "icon": "📄",
+      "url": {
+        "ja": "https://www.city.ichinoseki.iwate.jp/index.cfm/28,127161,c,html/127161/20210817-183133.pdf",
+        "en": null
+      },
+      "text": {
+        "ja": "市内小学校教職員 (一関市)",
+        "en": null
+      }
+    },
+    {
+      "date": "2021-08-17",
+      "icon": "📄",
+      "url": {
+        "ja": "https://www.smcworld.com/about/ja-jp/co_news.html",
+        "en": null
+      },
+      "text": {
+        "ja": "SMC 遠野工場 (遠野市)",
+        "en": null
+      }
+    },
+    {
+      "date": "2021-08-16",
+      "icon": "📄",
+      "url": {
+        "ja": "https://www.toyota-ej.co.jp/images/news_pdf/20210816.pdf",
+        "en": null
+      },
+      "text": {
+        "ja": "トヨタ自動車東日本 岩手工場 (金ケ崎町)",
+        "en": null
+      }
     }
   ]
 }

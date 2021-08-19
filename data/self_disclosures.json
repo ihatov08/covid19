@@ -5027,6 +5027,114 @@
         "ja": "アツギ東北 (盛岡市)",
         "en": null
       }
+    },
+    {
+      "date": "2021-08-18",
+      "icon": "📄",
+      "url": {
+        "ja": "https://www.nta.go.jp/data2/030818.pdf",
+        "en": null
+      },
+      "text": {
+        "ja": "花巻税務署 (花巻市)",
+        "en": null
+      }
+    },
+    {
+      "date": "2021-08-18",
+      "icon": "📄",
+      "url": {
+        "ja": "https://www.daiso-sangyo.co.jp/info/important/11400",
+        "en": null
+      },
+      "text": {
+        "ja": "ダイソー 盛岡アイスアリーナ前店 (盛岡市)",
+        "en": null
+      }
+    },
+    {
+      "date": "2021-08-18",
+      "icon": "📺",
+      "url": {
+        "ja": "https://youtu.be/744ua8BZgOk?t=492",
+        "en": null
+      },
+      "text": {
+        "ja": "盛岡市 市民部 (盛岡市)",
+        "en": null
+      }
+    },
+    {
+      "date": "2021-08-18",
+      "icon": "📄",
+      "url": {
+        "ja": "https://www.kurihara-kk.co.jp/",
+        "en": null
+      },
+      "text": {
+        "ja": "栗原建設 (奥州市)",
+        "en": null
+      }
+    },
+    {
+      "date": "2021-08-17",
+      "icon": "📄",
+      "url": {
+        "ja": "https://tonokk.jp/press/%e6%96%b0%e5%9e%8b%e3%82%b3%e3%83%ad%e3%83%8a%e3%82%a6%e3%82%a4%e3%83%ab%e3%82%b9%e6%84%9f%e6%9f%93%e8%80%85%e3%81%ab%e9%96%a2%e3%81%99%e3%82%8b%e3%81%8a%e7%9f%a5%e3%82%89%e3%81%9b/",
+        "en": null
+      },
+      "text": {
+        "ja": "遠野建設工業 (遠野市)",
+        "en": null
+      }
+    },
+    {
+      "date": "2021-08-19",
+      "icon": "📺",
+      "url": {
+        "ja": "https://youtu.be/mt-mLSFRYDQ?t=1265",
+        "en": null
+      },
+      "text": {
+        "ja": "岩手県庁 10F 教育委員会 事務局 (盛岡市)",
+        "en": null
+      }
+    },
+    {
+      "date": "2021-08-19",
+      "icon": "📄",
+      "url": {
+        "ja": "https://www.systembase.co.jp/pdf/COVID_20210819.pdf",
+        "en": null
+      },
+      "text": {
+        "ja": "システムベース (北上市)",
+        "en": null
+      }
+    },
+    {
+      "date": "2021-08-17",
+      "icon": "📄",
+      "url": {
+        "ja": "https://www.aeonsupercenter.co.jp/wp-content/uploads/2021/08/8255696eaf695dd1227ce76b591e7341.pdf",
+        "en": null
+      },
+      "text": {
+        "ja": "イオンスーパーセンター盛岡渋民店 専門店 (盛岡市)",
+        "en": null
+      }
+    },
+    {
+      "date": "2021-08-19",
+      "icon": "📄",
+      "url": {
+        "ja": "https://www.ichinoseki.ac.jp/news/news_oshirase.html?id=1551",
+        "en": null
+      },
+      "text": {
+        "ja": "一関工業高等専門学校 (一関市)",
+        "en": null
+      }
     }
   ]
 }

@@ -1,11 +1,4 @@
 /*!
- * tinygradient (v1.1.5)
- * @copyright 2014-2021 Damien "Mistic" Sorel <contact@git.strangeplanet.fr>
- * @licence MIT
- */
-
-
-/*!
   * vue-router v3.5.1
   * (c) 2021 Evan You
   * @license MIT
@@ -22,6 +15,13 @@
  * Copyright(c) 2012-2014 Roman Shtylman
  * Copyright(c) 2015 Douglas Christopher Wilson
  * MIT Licensed
+ */
+
+
+/*!
+ * tinygradient (v1.1.5)
+ * @copyright 2014-2021 Damien "Mistic" Sorel <contact@git.strangeplanet.fr>
+ * @licence MIT
  */
 
 

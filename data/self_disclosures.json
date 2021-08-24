@@ -409,18 +409,6 @@
       }
     },
     {
-      "date": "2021-01-04",
-      "icon": "📄",
-      "url": {
-        "ja": "http://www.morioka.jrc.or.jp/news/",
-        "en": null
-      },
-      "text": {
-        "ja": "盛岡赤十字病院 [更新] (盛岡市)",
-        "en": null
-      }
-    },
-    {
       "date": "2021-01-05",
       "icon": "📄",
       "url": {
@@ -5373,6 +5361,234 @@
       },
       "text": {
         "ja": "日本生命 (盛岡市)",
+        "en": null
+      }
+    },
+    {
+      "date": "2020-12-22",
+      "icon": "📄",
+      "url": {
+        "ja": "http://www.morioka.jrc.or.jp/news/2766/",
+        "en": null
+      },
+      "text": {
+        "ja": "盛岡赤十字病院 (第7報) (盛岡市)",
+        "en": null
+      }
+    },
+    {
+      "date": "2020-12-17",
+      "icon": "📄",
+      "url": {
+        "ja": "http://www.morioka.jrc.or.jp/news/2755/",
+        "en": null
+      },
+      "text": {
+        "ja": "盛岡赤十字病院 (第5報) (盛岡市)",
+        "en": null
+      }
+    },
+    {
+      "date": "2020-12-02",
+      "icon": "📄",
+      "url": {
+        "ja": "http://www.morioka.jrc.or.jp/news/2719/",
+        "en": null
+      },
+      "text": {
+        "ja": "盛岡赤十字病院 (第4報) (盛岡市)",
+        "en": null
+      }
+    },
+    {
+      "date": "2020-12-21",
+      "icon": "📄",
+      "url": {
+        "ja": "http://www.morioka.jrc.or.jp/news/2755/",
+        "en": null
+      },
+      "text": {
+        "ja": "盛岡赤十字病院 (第6報) (盛岡市)",
+        "en": null
+      }
+    },
+    {
+      "date": "2020-11-24",
+      "icon": "📄",
+      "url": {
+        "ja": "http://www.morioka.jrc.or.jp/news/2700/",
+        "en": null
+      },
+      "text": {
+        "ja": "盛岡赤十字病院 (第3報) (盛岡市)",
+        "en": null
+      }
+    },
+    {
+      "date": "2020-11-16",
+      "icon": "📄",
+      "url": {
+        "ja": "http://www.morioka.jrc.or.jp/news/2684/",
+        "en": null
+      },
+      "text": {
+        "ja": "盛岡赤十字病院 (第2報) (盛岡市)",
+        "en": null
+      }
+    },
+    {
+      "date": "2020-11-13",
+      "icon": "📄",
+      "url": {
+        "ja": "http://www.morioka.jrc.or.jp/news/2682/",
+        "en": null
+      },
+      "text": {
+        "ja": "盛岡赤十字病院 (第1報) (盛岡市)",
+        "en": null
+      }
+    },
+    {
+      "date": "2021-01-04",
+      "icon": "📄",
+      "url": {
+        "ja": "http://www.morioka.jrc.or.jp/news/2776/",
+        "en": null
+      },
+      "text": {
+        "ja": "盛岡赤十字病院 (第8報) (盛岡市)",
+        "en": null
+      }
+    },
+    {
+      "date": "2021-08-21",
+      "icon": "📄",
+      "url": {
+        "ja": "http://www.daiichi-kamotsu.co.jp/company/pressroom/info/covid/pdf/21082102.pdf",
+        "en": null
+      },
+      "text": {
+        "ja": "第一貨物 一関営業所 (一関市)",
+        "en": null
+      }
+    },
+    {
+      "date": "2021-08-16",
+      "icon": "📄",
+      "url": {
+        "ja": "https://www.npr.co.jp/news/pdf/2021_0816_01.pdf",
+        "en": null
+      },
+      "text": {
+        "ja": "日ピス岩手 (一関市)",
+        "en": null
+      }
+    },
+    {
+      "date": "2021-08-04",
+      "icon": "📄",
+      "url": {
+        "ja": "https://www.vitalnet.jp/news/2196",
+        "en": null
+      },
+      "text": {
+        "ja": "バイタルネット 盛岡支店 (盛岡市)",
+        "en": null
+      }
+    },
+    {
+      "date": "2021-08-23",
+      "icon": "📄",
+      "url": {
+        "ja": "https://www.city.kitakami.iwate.jp/life/corona/kenkou_iryou/19704.html",
+        "en": null
+      },
+      "text": {
+        "ja": "北上市立小学校教諭 (北上市)",
+        "en": null
+      }
+    },
+    {
+      "date": "2021-08-03",
+      "icon": "📄",
+      "url": {
+        "ja": "https://www.nittsu.co.jp/info/covid-19/occurrence.html",
+        "en": null
+      },
+      "text": {
+        "ja": "日本通運 重機建設事業部 協力会社 (北上市)",
+        "en": null
+      }
+    },
+    {
+      "date": "2021-08-24",
+      "icon": "📄",
+      "url": {
+        "ja": "https://www.iwatebank.co.jp/assets/pdf/20210824_covid_news.pdf",
+        "en": null
+      },
+      "text": {
+        "ja": "岩手銀行 青山町支店 (盛岡市)",
+        "en": null
+      }
+    },
+    {
+      "date": "2021-08-24",
+      "icon": "📄",
+      "url": {
+        "ja": "https://emergency.aeon.jp/moriokaminami/.assets/%E3%80%90%E6%B6%88%E6%AF%92%E5%BE%8C%E3%80%9120210823-%E3%82%B9%E3%83%86%E3%83%BC%E3%82%AD%E3%83%8F%E3%82%A6%E3%82%B9%E9%9C%A7%E5%B3%B0-%E5%91%8A%E7%9F%A5POP.pdf",
+        "en": null
+      },
+      "text": {
+        "ja": "イオンモール盛岡南 (宮崎ステーキハウス霧峰) [消毒清掃写真追加] (盛岡市本宮)",
+        "en": null
+      }
+    },
+    {
+      "date": "2021-08-23",
+      "icon": "📄",
+      "url": {
+        "ja": "http://www.isawa-hp.com/media/2/20210823-hp_______________.pdf",
+        "en": null
+      },
+      "text": {
+        "ja": "胆沢病院 (奥州市)",
+        "en": null
+      }
+    },
+    {
+      "date": "2020-11-19",
+      "icon": "📄",
+      "url": {
+        "ja": "http://www.isawa-hp.com/media/2/20201125-______________________________________________________________________________.doc",
+        "en": null
+      },
+      "text": {
+        "ja": "胆沢病院 (奥州市)",
+        "en": null
+      }
+    },
+    {
+      "date": "2021-08-24",
+      "icon": "📄",
+      "url": {
+        "ja": "http://www.nikkaniwate.co.jp/",
+        "en": null
+      },
+      "text": {
+        "ja": "日刊岩手建設工業新聞社 (盛岡市)",
+        "en": null
+      }
+    },
+    {
+      "date": "2021-08-24",
+      "icon": "📄",
+      "url": {
+        "ja": "http://www.morioka-times.com/corona.pdf",
+        "en": null
+      },
+      "text": {
+        "ja": "盛岡タイムス社 関連会社 (盛岡市)",
         "en": null
       }
     }
